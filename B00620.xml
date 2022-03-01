@@ -1,0 +1,1482 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compendium belli: or The touchstone of martiall discipline. Wherein is set foorth briefe rules and directions to take speciall notice of. The next of marches, exercising of a company, ordering of muskaters, imbattelling from 100. vnto 40000. The forme of encamping, with briefe notes belonging therevnto: plots of fortifications and forts: with the manner of lading and blowing off great ordnance, making of granados. Also shewing the extraction of the square roote, with a table from 16. vnto 10000. Likewise certaine questions of arithmaticke concerning millitary discipline: with a table also for the discouering of numbers by rancke and file. / Witten [sic] by Iohn Roberts of Weston neere Bath, Gent.</title>
+            <author>Roberts, John, of Weston.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 59 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00620</idno>
+            <idno type="STC">STC 21091</idno>
+            <idno type="STC">ESTC S94912</idno>
+            <idno type="EEBO-CITATION">52633337</idno>
+            <idno type="OCLC">ocm 52633337</idno>
+            <idno type="VID">174766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174766)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2124:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Compendium belli: or The touchstone of martiall discipline. Wherein is set foorth briefe rules and directions to take speciall notice of. The next of marches, exercising of a company, ordering of muskaters, imbattelling from 100. vnto 40000. The forme of encamping, with briefe notes belonging therevnto: plots of fortifications and forts: with the manner of lading and blowing off great ordnance, making of granados. Also shewing the extraction of the square roote, with a table from 16. vnto 10000. Likewise certaine questions of arithmaticke concerning millitary discipline: with a table also for the discouering of numbers by rancke and file. / Witten [sic] by Iohn Roberts of Weston neere Bath, Gent.</title>
+                  <author>Roberts, John, of Weston.</author>
+               </titleStmt>
+               <extent>[8], 39 [i.e. 107], [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by I. Norton and A. Mathewes.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1626.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Head- and tail-pieces; initials.</note>
+                  <note>Signatures: first four leaves unmarked, C-Q⁴ (last leaf blank).</note>
+                  <note>Numerous errors in paging.</note>
+                  <note>Reproduction of original in: Jesus College (University of Cambridge). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military art and science --  Early works to 1800.</term>
+               <term>Drill and minor tactics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174766:1" rendition="simple:additions"/>
+            <pb facs="tcp:174766:1" rendition="simple:additions"/>
+            <p>Compendium Belli: OR THE TOVCHSTONE OF MARTIALL DISCIPLINE. Wherein is ſet foorth briefe rules and Directions to take ſpeciall notice of. <hi>The next of Marches, Exerciſing of a</hi> Com<g ref="char:EOLhyphen"/>pany, ordering of Muskaters, Imbattelling from 100. vnto 40000. The forme of Encamping, with briefe Notes be<g ref="char:EOLhyphen"/>longing therevnto: Plots of Fortifications and Forts: With the manner of Lading and blowing off <hi>Great Ordnance, making of Granados.</hi> Alſo ſhewing the Extraction of the ſquare Roote, with a Table from 16. vnto 10000. Likewiſe certaine Queſtions of Arithmaticke concerning Millitary Diſcipline: With a Ta<g ref="char:EOLhyphen"/>ble alſo for the diſcouering of numbers by Rancke and File. <hi>Virtus gloriam paret.</hi>
+            </p>
+            <p>Witten by IOHN ROBERTS of Weſton neere <hi>Bath,</hi> Gent.</p>
+            <p>London printed by <hi>I. Norton</hi> and <hi>A. Mathewes.</hi> 1626.</p>
+            <pb facs="tcp:174766:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:174766:2"/>
+            <head>
+               <hi>TO THE RIGHT HO<g ref="char:EOLhyphen"/>nourable WILLIAM Earle of</hi> Pembrooke, <hi>Lord</hi> Herbert <hi>of Cardiffe, Lo:</hi> Parre <hi>and</hi> Roſſe <hi>of Kendall, Lo:</hi> Marmion <hi>and St.</hi> Quintin: <hi>Lord Warden of the</hi> Staneries <hi>in the County of Deuon and Cornewall, of the moſt Noble</hi> Order of the Garter, Knight: Chancellor of the <hi>V<g ref="char:EOLhyphen"/>niuerſity of Oxford, and Captaine of the Kings Ma<g ref="char:EOLhyphen"/>ieſties Towne and Caſtle of Portſmouth, and the Iland of Portſey, Lo: Chamberlaine to his Maieſtie, and one of the Lords of his Maieſties moſt honorable Priuy Councell.</hi>
+            </head>
+            <opener>
+               <salute>RIGHT HONORABLE:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eing filled with a ſtudious obſeruati<g ref="char:EOLhyphen"/>on of your noble parts, and a decla<g ref="char:EOLhyphen"/>ratory fame of the Vertues and <hi>Hero<g ref="char:EOLhyphen"/>icke actions</hi> of your Fame-worthy
+<pb facs="tcp:174766:3"/> Progenitors, and thoſe tranſ-mitted vnto You by a ſucceſsiue <hi>Lineall</hi> and <hi>Hereditary</hi> right: ſo that that rare Coniunction of <hi>Caſtor</hi> and
+<hi>Pol<g ref="char:EOLhyphen"/>lux,</hi> Imeane, <hi>Nobilitas, &amp; Ortu, &amp; Arte,</hi> are both happily conioyned in your noble Perſon. The Cu<g ref="char:EOLhyphen"/>rious ſuruey of the multitude of your Honourable parts bred in me a num<g ref="char:EOLhyphen"/>ber of deſires: ſo that J have aduen<g ref="char:EOLhyphen"/>tured to breake the barren ſoyle of my vnluckie Portion, that proſperous ſucceſſe ſhould rather want to my en<g ref="char:EOLhyphen"/>deauours, then diligent endeauours to my loyall determination. My ſub<g ref="char:EOLhyphen"/>miſsiue reſpect to your noble and He<g ref="char:EOLhyphen"/>roicke Vertues haue bin a preſump<g ref="char:EOLhyphen"/>tatiue cauſe to deſire your Lordſhips gratious Patronage of this my <hi>Com<g ref="char:EOLhyphen"/>pendium Belli,</hi> but how my vnwor<g ref="char:EOLhyphen"/>thyneſſe
+<pb facs="tcp:174766:3"/> may hope of your Goodnes, J cannot finde but in the notes of your tranſcendent and generous diſpoſi<g ref="char:EOLhyphen"/>tion. Thus in the loweſt humility of affection, J offer both my ſelfe, and the Imployment of my vndeſeruing ſeruice, freely to your Honors accep<g ref="char:EOLhyphen"/>tance: and doe deſire both to be, and to appeare to be</p>
+            <closer>
+               <signed>Your Honors humbleſt and moſt devoted Seruant IOHN ROBERTS.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174766:4"/>
+            <head>To all Gentlemen and Louers of the Art of Warre.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Oble and ingenious Reader, I haue preſented to the world, and to thy viewe this
+<hi>Compendium,</hi> that thou with it mayeſt reape, that only, by thy intuitiue ſpeculation, which I haue got by my laborious practiſe: I make no doubt, of thy skill and knowledge herein, but that thou knoweſt, and haſt ſeen, this in thine owne practicke, by thy indu<g ref="char:EOLhyphen"/>ſtrious trauell; Which now thou ſeeſt here in the Theoricke, by my laborious paines. Therefore I deſire your courteous cenſure in the peruſall of this Booke: for if any thing be miſtaken through equiuocation of words, or ambiguitie of ſenſe, blame the fruitleſſe rage of Deſtiny, that carries the beſt ſhafts of my vnlucky Quiuer farr diſtant from the white I aymed at. I did it
+<pb facs="tcp:174766:4"/> for the honour of my Countrey, and the generall good of the common weale: for which reaſons, I hope it may paſſe with<g ref="char:EOLhyphen"/>out the moleſtation of any of the vnskil<g ref="char:EOLhyphen"/>full<hi>:</hi> The Learned and Ingenious I honor; and willingly ſtand to their cenſure; To the reſt</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+            <pb facs="tcp:174766:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174766:5"/>
+            <head>
+               <hi>Compendium Belli:</hi> OR THE TOVCHSTONE of Martiall Diſcipline.</head>
+            <head type="sub">Principall and eſpeciall Rules for euery Commaunder to be perfect in.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hoſe things that helpeth the Enemie greatly, annoyeth thee, and the ſame that hel<g ref="char:EOLhyphen"/>peth thee, hurteth him.</p>
+            <p>Hee that is more carefull and vigelant, to obſerue the cunning and polliticke deui<g ref="char:EOLhyphen"/>ſes of the Enemy, and alſo ta<g ref="char:EOLhyphen"/>keth moſt paines in the exerciſing his Company, or Army, ſhall be ſure to incurre leaſt perills, and may haue greateſt hope of victorie.</p>
+            <p>
+               <pb n="2" facs="tcp:174766:6"/> Neuer enterpriſe any dangerous incounter with thy Souldiers, but firſt by thy pollicie, let there be giuen out, hope of victorie.</p>
+            <p>It is better to conq<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the Enemy with famine, then with the ſword; in the victory of which, for<g ref="char:EOLhyphen"/>tune may doe much more then valoure.</p>
+            <p>No plot or purpoſe is better then that which is hid from the Enemy, vntill it be executed.</p>
+            <p>To know in the warre how to vnderſtand occa<g ref="char:EOLhyphen"/>ſion, and take it, more auayleth then any thing.</p>
+            <p>Nature breedeth few ſtrong and valient men, but induſtry and exerciſe maketh many.</p>
+            <p>Diſcipline may doe much more in time of bat<g ref="char:EOLhyphen"/>tell, then furie.</p>
+            <p>If any of the Enemies Souldiers depart from them and fly to thee (ſo they prooue faythfull) they ſhall be allwaies vnto thee great gaines, and ſtand thee in great ſteede, for that the power of thy Enemies are thereby deminiſhed, and much more weakened, then of thoſe that be ſlaine, though the name of a Fugitiue be to old frinds o<g ref="char:EOLhyphen"/>dious, to new ſuſpected.</p>
+            <p>Better it is in pitching the field, to reſerue be<g ref="char:EOLhyphen"/>hinde the firſt front ayde enough, then to make a big front, which will doe great hurt, and diſperſe the Companies.</p>
+            <p>He is difficultly ouercome, which knoweth his owne ſtrength, and the power of his enemies.</p>
+            <p>The valour of the Souldiers, more auaileth then the multitude.</p>
+            <p>
+               <pb n="3" facs="tcp:174766:6"/> Sometimes the ſituation helpeth more then va<g ref="char:EOLhyphen"/>lour.</p>
+            <p>New &amp; ſodaine thinges make Armies affraide; ſlowe and accuſtomed things be little regarded: Therefore make thy Armie practiſe; and know, with ſmall fightes a new enemy, before thou ad<g ref="char:EOLhyphen"/>uentereſt to fight a field with them.</p>
+            <p>He that with diſorder followeth the enemie after that their order is broken, will become of a Conquerour a Conquered.</p>
+            <p>He that prepareth not neceſſary victualls, with all manner of Amunition, is ouercome without the Sword.</p>
+            <p>He that truſteth more in Foote-men then Horſe-men, or in Horſe-men more then in Foote-men, muſt accomodate himſelfe with the ſituation.</p>
+            <p>When thou wouldſt ſee if in the day there be come any Spie into the Campe, make proclama<g ref="char:EOLhyphen"/>tion that euery man goe to his lodging, ſo ſhall you know your owne men from ſtrangers.</p>
+            <p>Change purpoſe if thou perceiueſt that thy e<g ref="char:EOLhyphen"/>nemie hath foreſeene it.</p>
+            <p>Conſult with many aboute the thinges thou oughteſt to doe, the ſame thou wilt after doe, conferre with few.</p>
+            <p>Souldiers when they abide at home, are main<g ref="char:EOLhyphen"/>teyned with feare and puniſhment; after, when they are led to the warre, with hope and rewarde.</p>
+            <p>Be ſure the enemie know not how thou wilt order thy Army in battell; and whatſoeuer man<g ref="char:EOLhyphen"/>ner
+<pb n="4" facs="tcp:174766:7"/> ſets the battell, make that the firſt Bande be receiued off firſt and ſecond.</p>
+            <p>In fight neuer occupie the battell to any other thing then to the ſame for which thou haſt ap<g ref="char:EOLhyphen"/>pointed it, if thou meaneſt to make no diſorder.</p>
+            <p>Suddaine accidents are remedyed with difficul<g ref="char:EOLhyphen"/>ty, thoſe that are thought vpon with facility.</p>
+            <p>Before thou bringeſt thy Souldiers to giue bat<g ref="char:EOLhyphen"/>tell, cauſe them to be ranged in forme of battell, making of his Foote-men ſundry Battalions, and of thoſe ſundry fronts; to deuide the Horſe-men alſo in ſundry troopes, placing the Lances, Light-horſemen, and Hargubuſiers, euery front in ſeue<g ref="char:EOLhyphen"/>rall troupes by themſelues, to cauſe the forlorne to iſſue out, and skirmiſh them before the batta<g ref="char:EOLhyphen"/>lions, as if the enemy were indeed preſent, and vpon a retreate ſounded and beaten, ſuddenly to retire: The Horſe-men to charge, and ſuddenly to returne againe into their place; vpon their re<g ref="char:EOLhyphen"/>treate to cauſe certaine ſleeues of Pikes, and light armed, to runne out to their reskew, as though the enemie did purſue them: Then the Battalions of the firſt front to march forward, and charge the enemie, and ſuddenly after the ſound of the retreate, to retire themſelues orderly, betweene the Battalions of the ſecond front: Then the ſe<g ref="char:EOLhyphen"/>cond front muſt charge, and march forward toge<g ref="char:EOLhyphen"/>ther with the other that laſt retired, and make head together vpon the enemy.</p>
+            <p>Laſt of all, the light armed Foote-men and
+<pb n="5" facs="tcp:174766:7"/> Horſe-men muſt iſſue out, as it were to doe exe<g ref="char:EOLhyphen"/>cution vpon the enemie.</p>
+            <p>Whilſt fayre weather is, the Generall muſt acquaint the Souldiers to ſleepe vpon bare ground: Although the enemy be farre abſent, yet duely to mainteine the Skoutes, lay out their Pardues, ſet forth their Centryes, and performe all manner of Millitary Orders, as curiouſly and carefully as if the enemie were preſent: He muſt keepe his Souldiers in continuall exerciſe; and by feigned Allarums, to ſee in what readineſſe his Forces would be (if neceſſity required:) But if the enemie chance to cauſe any Allarum in<g ref="char:EOLhyphen"/>deede, it is his pollicie then to cauſe the Campe to be in armes by the ſound only of the Drumbe<g ref="char:EOLhyphen"/>ſtickes, or ſome other priuate watch-word, or ſome Warning-peece, which when the enemie perceiues that the Campe is in Armes without any manner of Allarum, will much amaze and terrify them, to finde them in ſuch readineſſe, da<g ref="char:EOLhyphen"/>ring them and their affronts.</p>
+            <p>Alſo, the Generall ought to ſhew them all manner of wayes how the enemie may at<g ref="char:EOLhyphen"/>tempt them, diſcouering alſo to them their remedy, and how they are to anſwere to thoſe attempts; for no Man is borne a Souldier, but by exerciſe and induſtry it is attayned, and by diſcontinuance againe it is loſt, as all other Artes and Sciences are.</p>
+            <p>
+               <pb n="6" facs="tcp:174766:8"/> You muſt haue a ſpeciall care, that the Army haue not in their faces the duſt to blinde them, the winde to diſturbe them, or the Sunne beames to annoy them, before they enter into any maine Encounter; the which Impediments, not only altogether, but each one by himſelfe alone, doth bring great toyle, trouble, and diſaduantage.</p>
+            <figure>
+               <head>The forme of ſeuerall Marches.</head>
+               <figDesc>depiction of military formations.</figDesc>
+            </figure>
+            <p>
+               <pb n="8" facs="tcp:174766:9"/> IF you meane to exerciſe a Company, you muſt bring them into this forme.
+<hi>viz.</hi> The Muskatiers muſt be placed on both ſides of the Pikes, fiue Files on one ſide, and fiue on the o<g ref="char:EOLhyphen"/>ther, the Pikes ten deepe, and ſo many ſquare in the middle.</p>
+            <div type="part">
+               <head>To your Right Hand.</head>
+               <p>Firſt note, that before you begin to exerciſe the Company, you firſt commaund them to ad<g ref="char:EOLhyphen"/>uance their Pikes, and to ſhoulder their Muskets: Then you haue no more to doe, but to cauſe them to turne to their Right-hand, which is thus; They muſt not remooue their Left legge from the ground, but turue vpon it, and remooue on<g ref="char:EOLhyphen"/>ly the Right, to make the Right hand File the Front, as you ſee in this Figure.</p>
+            </div>
+            <div type="part">
+               <head>As you were.</head>
+               <p>As you turned to your Right, ſo in the ſame manner you muſt turne backe to your Left, kee<g ref="char:EOLhyphen"/>ping your Left legge ſtill vpon the ground, vntill you come euen with the Front.</p>
+               <p>
+                  <pb n="9" facs="tcp:174766:9"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:174766:10"/>
+               <head>To the Left Hand.</head>
+               <p>Becauſe the Enemy may ſometimes Charge on the Left Hand Flanke; Therefore, that you may be ſudainely ready to defend your ſelues, and of<g ref="char:EOLhyphen"/>fend them; and for diuers reaſons beſides, this Motion is vſed: And to doe it, you muſt mooue with your Right Foote, vntill your Faces front toward the Left Flanke, your Left Foote not moouing from the place where it ſtood before, but turning.</p>
+            </div>
+            <div type="part">
+               <head>As you Were.</head>
+               <p>Then hauing performed the aforeſaid Motion, the Captaine commaunds, <hi>As you weare,</hi> and then they mooue all towards the Right Hand, vntill they are turned to the firſt Front, moouing vpon the ſame Foote you did before.</p>
+            </div>
+            <div type="part">
+               <head>To the Right Hand About.</head>
+               <p>This Motion is vſed, when the Enemy doth Charge in the Reare; then keepe your Left Foote ſtill, and turne to the Reare, and Charge, or otherwiſe for exerciſe.</p>
+               <p>
+                  <pb n="11" facs="tcp:174766:10"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:174766:11"/>
+               <head>To the Left Hand as you were.</head>
+               <p>Hauing performed the former Motion, the Captaine commaunds them, To the Left hand as you were, the Left Foote remaines fixed, vntill their faces be turned to the former front.</p>
+            </div>
+            <div type="part">
+               <head>To the Left Hand about.</head>
+               <p>Sometimes it is more conuenient to turne to the Left Hand then to the Right, therefore this Motion is vſed, the Left Legge ſtill ſtanding.</p>
+            </div>
+            <div type="part">
+               <head>To the Right hand as you were.</head>
+               <p>It is but turning towards your Right Hand, vn<g ref="char:EOLhyphen"/>till you come to the former Front.</p>
+               <p>
+                  <pb n="13" facs="tcp:174766:11"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:174766:12"/>
+               <head>Rankes to your Right Hand Double.</head>
+               <p>This Motion is onely vſed, to double and ſtrengthen the Front; and thus it is done, all in the ſecond Ranke, march vp in the firſt; and firſt, they muſt ſet forward the Right Legge, and then the Left, making but two Paces to the Front, and ſo the Fourth, the Sixth, the Eight, and Tenth Ranke, muſt likewiſe doe all at one inſtant.</p>
+            </div>
+            <div type="part">
+               <head>Rankes to your Left Hand as you were.</head>
+               <p>Hauing performed the former Motion, you turne about at the Word of Commaund, and ſet forward your Left Foote, and ſo make two Pa<g ref="char:EOLhyphen"/>ces, comming into your forme againe, all at one inſtant.</p>
+            </div>
+            <div type="part">
+               <head>Rankes to your Left Hand double.</head>
+               <p>This is almoſt all one as you did with the Right, ſaue you muſt ſet forward your Left Leg fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, and put your ſelfe on the Left Hand of your Leader.</p>
+               <p>
+                  <pb n="15" facs="tcp:174766:12"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:174766:13"/>
+               <head>Rankes to your Right Hand as you were.</head>
+               <p>You muſt firſt t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rne to your Right, becauſe you will come the better into your place; and then ſet forward your Right Foote, it is more ſeemely and Souldier like by much then any o<g ref="char:EOLhyphen"/>ther way.</p>
+               <p>Becauſe you ſee there is an odde File of Muska<g ref="char:EOLhyphen"/>tiers, you muſt place the Muskatiers all to the Right Flanke, and it is eaſely donne thus, cauſing the Left Wing to ſtand ſtill, and the reſt to mooue one pace forwards; then the word of Commaund is; Left Flanke to the Right Hand, and march through thy Files, which with eaſe is to be done.</p>
+            </div>
+            <div type="part">
+               <head>Files to your Right Hand double.</head>
+               <p>There is occaſion ſometimes to ſtrengthen the Flankes, and then they vſe this word of Com<g ref="char:EOLhyphen"/>maund, which is no more to performe then this, if it be to the Right Hand; then the Right Flanke ſtandeth ſtill, and the next File doubleth it, that is, fall iuſt behinde his Side-man, in File with him; Then the Third, Fifth, Seuenth, and eue<g ref="char:EOLhyphen"/>ry other ſtands: Remember that you muſt make them doe it all at one motion together.</p>
+               <p>
+                  <pb n="17" facs="tcp:174766:13"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:174766:14"/>
+               <head>Files as you were.</head>
+               <p>All thoſe that doubled, returne into their pro<g ref="char:EOLhyphen"/>per places, by ſetting their left Legge firſt to pace: Remember when you double to your right hand, you put your right Legge forward, and when on the left, your left Legge, and ſo backwards.</p>
+            </div>
+            <div type="part">
+               <head>Files to your Left Hand double.</head>
+               <p>This motion differeth little from the other, ſaue that the left flancke doe ſtand ſtill, and the Second doubles it in this action; in doubling the left Legge, goeth to double, and the right com<g ref="char:EOLhyphen"/>ming backe.</p>
+            </div>
+            <div type="part">
+               <head>Files as you were.</head>
+               <p>Is iuſt as the other was, ſaue they fall backe to the right hand, with the right legge.</p>
+               <figure>
+                  <figDesc>depiction of military formations.</figDesc>
+               </figure>
+               <p>
+                  <pb n="20" facs="tcp:174766:15"/> Hauing performed the doubling of Files, which was don with the Shot in the Right Hand Flanck of the Pikes: Now you muſt place them as they were before, one halfe on the Right Flancke, the other on the Left of the Pikes.</p>
+            </div>
+            <div type="part">
+               <head>Halfe Files to your Right Hand, Double your Rankes.</head>
+               <p>This muſt be done by the ſixt Rancke, and you muſt doe it at ten Paces thus; Firſt with your Right Leg ſet forward, you muſt March forward, and aduance your Ground towards the Front, all the Rancke obſeruing the Right Hand Leader, and ſo mooue altogether to the Front, with whom you muſt Ranke; obſeruing likewiſe that when you thus begin to double, you Aduance your Pikes, &amp; when you haue doubled the Front, Order your Pikes, the Sixt muſt rancke with the Firſt, the Seuenth with the Second, the Eight with the Third, and ſo all the reſt.</p>
+               <figure>
+                  <figDesc>depiction of military formations.</figDesc>
+               </figure>
+               <p>
+                  <pb n="22" facs="tcp:174766:16"/> When you haue performed the former Motion, they muſt turne to the Right Hand, which is more gracefull and comely, with the Right Foote ſet forward, and ſo Retreate to the Reare, at ten Pa<g ref="char:EOLhyphen"/>ces more, obſeruing your Left Hand, and then you will be tenn deepe againe as you were.</p>
+            </div>
+            <div type="part">
+               <head>Halfe Files to your Left Hand, Double your Rankes.</head>
+               <p>There is no difference, but onely that the halfe Files muſt march vp to the Left Hand of the Files that ſtand.</p>
+            </div>
+            <div type="part">
+               <head>Halfe Files to the Right Hand, As you were.</head>
+               <p>The halfe Files aduance their Pikes, and falles back with their Right Legge, to be cleare of their Side-men, &amp; ſo march into their proper places.</p>
+               <p>
+                  <pb n="23" facs="tcp:174766:16"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                     <head>Halfe Files to your Right Hand, as you were.</head>
+                  </figure>
+                  <figure>
+                     <head>Halfe Files to your Left Hand, double your Rankes.</head>
+                  </figure>
+                  <figure>
+                     <head>Halfe Files to the Right Hand, as you were.</head>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="24" facs="tcp:174766:17"/>
+               <head>Files to your Right hand Countermarch.</head>
+               <p>When a Charge is expected in the Reare, and it being thought conuenient to haue the Leaders of the Files in the places of the bringers vp, be<g ref="char:EOLhyphen"/>cauſe they are men beſt able to receiue the Ene<g ref="char:EOLhyphen"/>mie. The Leaders aduancing with their Right Legge turned to the Right Hand, and march downe towards the Reare, all the body of the Company, mouing together: for when the firſt Filers turne, the Second aduanceth in their pla<g ref="char:EOLhyphen"/>ces, and doth the like, and ſo Third, Fourth, and Fifth, &amp;c. There is alſo another kinde of Coun<g ref="char:EOLhyphen"/>termarch, which is called the <hi>Lacedemonian Coun<g ref="char:EOLhyphen"/>termarch,</hi> which is for the Firſt Rancke to Face towards the Reare; the Second, and all the reſt of the Body to March vp, and turne behinde their Leaders, you may Countermarch likewiſe by Ranckes as you doe by Files.</p>
+               <p>
+                  <pb n="25" facs="tcp:174766:17"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                     <head>Files to your Right Hand, Counter-march.</head>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:174766:18"/>
+               <head>Files to your Right Hand Countermarch.</head>
+               <p>This motion differeth nothing in the world from the other, for you muſt turne vp on the ſame Hand againe, and aduance with the Left Legge, and turne to the Right Hand, and then you March iuſt in the place you were in before.</p>
+            </div>
+            <div type="part">
+               <head>Cloſe your Files both wayes at a Foote and Halfe.</head>
+               <p>If a Charge of Horſe bee expected, then the Foote are to be in the cloſeſt Order, which is one Foote and a Halfe in File, and there in Rancke.</p>
+            </div>
+            <div type="part">
+               <head>Cloſe your Ranckes to three Foote.</head>
+               <p>Which is nothing elſe, but to Pace on to the Sword point, which is the iuſt diſtance of Three Foote,</p>
+               <p>
+                  <pb n="27" facs="tcp:174766:18"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                     <head>Cloſe your Files a Foot and a halfe.</head>
+                     <head>Cloſe your rankes to three Foot.</head>
+                  </figure> 
+               </p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:174766:19"/>
+               <head>Ranckes to the Right Hand wheele.</head>
+               <p>If the Enemie Charge on the Right Hand Flancke, to receiue them with the moſt able men which are commonly in the Front, it may be thus performed; the Leader of the Right Hand File ſtandeth fixed, onely turning his body, and the reſt moue vpon him as the Centre, obſeruing ſtill the diſtance and ſtraightneſſe of their Rancks and File, without which, this motion will not be per<g ref="char:EOLhyphen"/>formed gracefully.</p>
+            </div>
+            <div type="part">
+               <head>Rancks to your Left Hand wheele.</head>
+               <p>There is no difference in the performance of this motion, and the latter, but that the Left Hand Leader ſtands, and the reſt wheeles towards him.</p>
+            </div>
+            <div type="part">
+               <head>Ranckes to the Right Hand wheele vpon a Center.</head>
+               <p>All to the Right Hand of the middle of the Front goe backwards, and on the Left forwards.</p>
+            </div>
+            <div type="part">
+               <head>Rancks to the Left Hand wheele vpon the Center.</head>
+               <p>All the Left Hand of the Center wheeles back<g ref="char:EOLhyphen"/>wards, and the right forwards.</p>
+               <p>
+                  <pb n="29" facs="tcp:174766:19"/> 
+                  <hi>Rankes to your Right Hand Wheele.</hi>
+               </p>
+               <p>
+                  <hi>Rankes to your Left Hand Wheele.</hi>
+               </p>
+               <p>
+                  <hi>Rankes to your Right Hand wheele vp<g ref="char:EOLhyphen"/>on the Center.</hi>
+               </p>
+               <p>
+                  <hi>Rankes to your Left hand, wheele vp<g ref="char:EOLhyphen"/>on the Center.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="32" facs="tcp:174766:20"/>
+               <head>Open your Ranckes backward.</head>
+               <p>To open the Banckes, vnderſtand that the Front or Firſt Rancke ſtandeth ſtill, and the other nine Ranckes fall backwards altogether, vntill the Second Rancke bee Sixe Foote diſtant from the firſt, and then it ſtands ſtill: ſo likewiſe muſt you doe with all the Ranckes, vntill they bee diſtant ſixe foote one from another.</p>
+            </div>
+            <div type="part">
+               <head>Open your Files both wayes.</head>
+               <p>In opening your Files, halfe the body moue to<g ref="char:EOLhyphen"/>wards the right hand, and halfe towards the left hand ingroſſe, and then the two middlemoſt files when they are three foote diſtant, ſtand ſtill, and the reſt of the body continues moouing both wayes vntill the next two files, are diſtant three foote more, and ſo of all the reſt.</p>
+            </div>
+            <div type="part">
+               <head>Here you are in your Order as you were at firſt, three foote in File, and ſixe foote in Rancke.</head>
+               <p>
+                  <pb n="30" facs="tcp:174766:20"/>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                     <head>Open your rankes Backwards.</head>
+                     <head>Open your Files both wayes.</head>
+                  </figure> 
+               </p>
+            </div>
+            <div type="part">
+               <pb n="32" facs="tcp:174766:21"/>
+               <head>How to exerciſe Muskatieres.</head>
+               <div type="subpart">
+                  <head>Firſt Rancke giue Fire, and Countermarch to the Reare.</head>
+                  <p>Firſt, you muſt vnderſtand that they muſt bee three foote in file, and three foote in rancke, and then the Captain giues the Word of Command, and they Countermarch to the reare, and there ranke: note alwayes that you Countermarch ſtill to the right hand, and neuer to the left: this is done ſtanding, and therefore looſeth ground; ſome will ſay Countermarching with Muskets in skirmiſhing is improper, but I ſay it is as the ſci<g ref="char:EOLhyphen"/>tuation is, for if you haue but little ground to make a front, and haue a bigg front to oppoſe you, then you may vſe Countermarching, becauſe you haue not ground enough for to fight by diuiſions.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Second Order.</head>
+                  <p>You muſt make a diuiſion in the midſt, of ſixe foote, then the Captaine commands firſt and ſe<g ref="char:EOLhyphen"/>cond ranks, make ready, and then Marcheth with them ſome ſixe paces from the front, and then ſayes, Firſt rancke giue fire, which when they haue performed, they Marchone halfe through the Deuiſion, and the other by the right flancke to the Reare.</p>
+                  <p>
+                     <pb n="33" facs="tcp:174766:21"/>
+                     <figure>
+                        <figDesc>depiction of military formations.</figDesc>
+                        <head>Firſt Ranke giue Fire and Countermarch to the Reare.</head>
+                        <head>Firſt and ſecond Rankes make ready: Firſt Rranke giue Fire, &amp;c.</head>
+                     </figure> 
+                  </p>
+               </div>
+               <div type="subpart">
+                  <pb n="34" facs="tcp:174766:22"/>
+                  <head>The Third Order.</head>
+                  <p>As you did before, ſo you muſt doe now, but that as ſoone as you haue drawne out the two firſt rancks, and when the firſt is come in place to pre<g ref="char:EOLhyphen"/>ſent, you may vſe this Word of Command, <hi>Second Rancke to your right hand, Double your Front, and giue Fire then as you were:</hi> Laſtly, let them March one halfe through the Diuiſion, and the other by the right hand flancke, as afore to the rancke in the reare; obſerue that as ſoone as the firſt falls off to the reare; the ſecond immediatly followes, and this demonſtration is of gayning ground, for the body is ſtill marching ſoftly forward.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Fourth Order.</head>
+                  <p>The Company retreating, the Captaine ſayes to the laſt rancke, <hi>To the right hand about and giue Fire,</hi> and then they rancke in the reare, and per<g ref="char:EOLhyphen"/>formes the ſame, the one halfe marcheth through the Deuiſion, and the other by the right hand flancke, to the front, and ſo by the laſt ranke con<g ref="char:EOLhyphen"/>tinually; this is an order of looſing ground.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Fifth Order.</head>
+                  <p>Vpon your Retreate, the Enemie following hard neere you, to annoy them, you cauſe the laſt rancke to doubl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the reare ſtill, and giue Fire, which before you gaue Fire with ten; now you doe with twenty, and ſo done, they March in their places as afore.</p>
+                  <p>
+                     <pb n="35" facs="tcp:174766:22"/>
+                     <figure>
+                        <figDesc>depiction of military formations.</figDesc>
+                        <head>Second Ranke to the right Hand double your Front, and giue Fire.</head>
+                        <head>Laſt Ranke to the right Hand about, and giue fire.</head>
+                        <head>Laſt Ranke to the right Hand about, double your Reare, and giue Fire.</head>
+                     </figure> 
+                  </p>
+               </div>
+               <div type="subpart">
+                  <pb n="36" facs="tcp:174766:23"/>
+                  <head>The Sixth Order.</head>
+                  <p>To this Order you muſt make no Diuiſion at all, and when you haue giuen Fire according to the Word of Command, you muſt cauſe them to ſtand ſtill, onely turning their faces to the front, and prime vpon their Reſts, and when the other File is cleare of the right flanke, they performe the like, I meane, turne to the right hand, and giue fire; then inſtantly the right flanke Marcheth vp to the front of that File, and the other File pri<g ref="char:EOLhyphen"/>meth vpon their Reſt the while, and ſo all the Files doth the like: note that the body ſtill March<g ref="char:EOLhyphen"/>eth, this Order is vſed when you are Charged vp<g ref="char:EOLhyphen"/>on the right flanke.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Seauenth Order.</head>
+                  <p>This order is all one with the laſt, ſaue that the flanke as ſoone as they haue giuen fire, the one halfe marcheth through the Diuiſion, and the o<g ref="char:EOLhyphen"/>ther by the reare, and rankes in the left flanke, iuſt as they were before; ſo the ſecond, third, and all the Files, one after another giues fire.</p>
+                  <p>You muſt cauſe the firſt ranke to giue fire, and ſtand, then the ſecond rancke doth March vp through the firſt rancke and Files with them, and giues fire, and ſo of all the reſt: note that as ſoone as the ſecond ranke begins to moue, the body all moues vp to the ſame diſtance, as their Order was at firſt.</p>
+                  <figure>
+                     <figDesc>depiction of military formations.</figDesc>
+                     <head>Right Flanke to the right Hand, and giue fire: Prime on your Reſts.</head>
+                     <head>Right Flanke to the right Hand, and giue fire.</head>
+                  </figure>
+               </div>
+               <div type="subpart">
+                  <pb n="38" facs="tcp:174766:24"/>
+                  <head>The Eighth Order.</head>
+                  <p>Cloſing your Diuiſion, you cauſe the Compa<g ref="char:EOLhyphen"/>ny to March, and commaund them, make ready all together, then you giue the Word of Com<g ref="char:EOLhyphen"/>mand to them, as ſoone as they haue diſcharged, they muſt Countermarch to the reare; this Or<g ref="char:EOLhyphen"/>der is getting ground, all one with the firſt Order, ſaue one marcheth and getteth ground, the other ſtandeth and looſeth ground.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Ninth Order.</head>
+                  <p>The Captaine commaunds them to make rea<g ref="char:EOLhyphen"/>die altogether, then ſaith to the firſt ranke,
+<hi>Giue fire,</hi> which done, the one halfe of the Pikes mar<g ref="char:EOLhyphen"/>cheth through the midſt of the body, which for that end is deuided, euery man falling into his owne File; this Order is ſtanding, and moues on<g ref="char:EOLhyphen"/>ly by rankes.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Tenth Order.</head>
+                  <p>As you are marching, the right flanke ſtands ſtill, and the ſecond File, which is next vnto doubles him, and then they turne to the right hand, and giues fire, preſently vpon that they fall into their firſt Order, and primes vpon their reſt, vntill the reſt of the Company bee cleare of them, and then the two vtmoſt files againe doth the like; looke vpon the ſixt Order, and there is no difference, but onely ſtill in doubling the flanckes.</p>
+                  <p>
+                     <pb n="39" facs="tcp:174766:24"/>
+                     <figure>
+                        <figDesc>depiction of military formations.</figDesc>
+                        <head>Firſt Ranke giue Fire and Countermarch to the Reare.</head>
+                        <head>Firſt Ranke giue Fire.</head>
+                        <head>Firſt File to your right Hand, double your Flanke, and giue fire.</head>
+                     </figure> 
+                  </p>
+               </div>
+               <div type="subpart">
+                  <pb n="40" facs="tcp:174766:25"/>
+                  <head>The Eleuenth Order.</head>
+                  <p>This Order differeth nothing from the laſt, but onely the action muſt bee performed on the left hand.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Twelfth Order.</head>
+                  <p>Firſt, you muſt cauſe the ſecond rancke to double the firſt; then commaund them as they were; next, make them two rankes to Counter<g ref="char:EOLhyphen"/>march: ſo of all the reſt.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Thirteenth Order.</head>
+                  <p>Let the firſt rancke giue Fire, and Counter<g ref="char:EOLhyphen"/>march, the ſecond muſt March vp where the front was before, and giue fire as the firſt did, and ſo of all the reſt.</p>
+                  <p>
+                     <pb n="41" facs="tcp:174766:25"/>
+                     <figure>
+                        <figDesc>depiction of military formations.</figDesc>
+                        <head>Firſt File to your left Hand, double your Flanke, and giue fire.</head>
+                        <head>Firſt and ſecond Ranke make ready, ſecond Ranke double your Front, and giue Fire.</head>
+                        <head>Firſt Ranke giue Fire, and Countermarch to the Reare.</head>
+                     </figure> 
+                  </p>
+               </div>
+               <div type="subpart">
+                  <pb n="42" facs="tcp:174766:26"/>
+                  <head>The Fourteenth Order.</head>
+                  <p>The ſecond, third, and fourth Rankes, muſt March vp, and giue Fire, and Countermarch; ſo likewiſe the ſame Word of commaund, muſt bee vſed ſtill to make them fall into a ſquare, ſo ſhall you haue a ſquare Battalia out of a Diamond, thus.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Fifteenth Order.</head>
+                  <p>To this Order, there is no more but commaund them giue fire, and Countermarch, and they will fall into the ſame Order as they did before, if you would get ground, they muſt March, if looſe ground, they muſt ſtand ſtill.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Sixteenth Order.</head>
+                  <p>Looke in the fifteenth Order, and as you did that, ſo muſt you doe this without any alteration, obſeruing that eight giue fire at one time, and no more.</p>
+                  <p>
+                     <pb n="43" facs="tcp:174766:26"/>
+                     <figure>
+                        <figDesc>depiction of military formations.</figDesc>
+                        <head>Right and left hand files of the ſecond, third, and <hi>fourth Ranke march vp, giue fire, and counter-march to the Reare.</hi>
+                        </head>
+                        <head>Firſt Ranke giue fire, and Counter-march.</head>
+                        <head>Firſt Ranke giue fire and Countermarch to make a Square.</head>
+                     </figure> 
+                  </p>
+               </div>
+               <div type="subpart">
+                  <pb n="44" facs="tcp:174766:27"/>
+                  <head>The Seuenteenth Order.</head>
+                  <p>The rankes muſt be ten foote aſunder if the files be fiue, if ſixe, then they muſt be twelue, and as ſoone as you haue giuen the word of Command, they fall into one file, the right hand flanke ſtand<g ref="char:EOLhyphen"/>ing ſtill, onely turning his face to the right hand, and ſo likewiſe if any occaſion ſerue, you may performe it on the left hand, as followeth in the next Order.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Eighteenth Order.</head>
+                  <p>The ſame Order you obſerued on the right, the like muſt you doe on the left; remember that the files when they doe this, muſt be in their cloſeſt Order: alſo if you haue any occaſion, you may doe it both wayes at once by making a diuiſion in the midſt, the word of Command, is <hi>Rankes to your right and left hand,</hi> by Conuerſion, but then your files muſt be euen, as foure, or ſixe, or eight, or any other euen number, the which is perfor<g ref="char:EOLhyphen"/>med in the next following Order.</p>
+               </div>
+               <div type="subpart">
+                  <head>Ranks to your right and left hand by Conuerſion.</head>
+                  <p>This Order is done by making a deuiſion in the middle, to charge the Enemie vpon both flankes, or for to make a lane for great Ordnance, to play betweene them, and is no more but to cauſe them to be done at once, iuſt as the former is, onely you muſt turne to the right and left hand in your Conuerſion. Some doe hold that the proper word is, <hi>Wheele to the right and left hand,</hi> now you are acquainted with both, chooſe of the two which you liſt.</p>
+                  <p>
+                     <pb n="45" facs="tcp:174766:27"/>
+                     <figure>
+                        <head>Rankes to the right Hand by Conuerſion and giue fire.</head>
+                     </figure>
+                     <figure>
+                        <head>Rankes to your left Hand by Conuerſion and giue Fire.</head>
+                     </figure>
+                     <figure>
+                        <head>Rankes to your right and left Hand by Con<g ref="char:EOLhyphen"/>uerſion, and giue Fire.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <pb n="46" facs="tcp:174766:28"/>
+                  <head>Deuiſions of Pikes and Muskatieres to your right and left hand by Conuerſion.</head>
+                  <p>Make two deuiſions of Pikes, and two of Muſ<g ref="char:EOLhyphen"/>kets, then the Pikes next to the right hand deui<g ref="char:EOLhyphen"/>ſion, of that muſt turne to the right flanke of Muſ<g ref="char:EOLhyphen"/>katieres by Conuerſion, and the Pikes next the left flanke of that, muſt conuert themſelues to that deuiſion, and the Shot alſo, as they did in the precedent Order, ſo ſhall you make of twenty files but foure files onely.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Twentieth Order.</head>
+                  <p>If you pleaſe you may diſcharge by doubling your rankes, or by fingling; as you ſee occaſion you muſt commaund them to make ready altoge<g ref="char:EOLhyphen"/>ther, this Order is of great force.</p>
+                  <p>
+                     <pb n="47" facs="tcp:174766:28"/>
+                     <figure>
+                        <figDesc>depiction of military formations.</figDesc>
+                        <head>Deuiſions of Pikes and Muskatiers to your Right and Lelft hand by Conuerſion.</head>
+                        <head>Frontiers giue fire, and fall off through Deuiſions.</head>
+                     </figure> 
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="48" facs="tcp:174766:29"/>
+               <head>How to reduce a Diamond out of a Square, and alſo out of a Diamond, <hi>into a trianguler forme.</hi>
+               </head>
+               <p>If you are diſpoſed to turne a ſquare into a Dia<g ref="char:EOLhyphen"/>mond, looke vpon this figure, and you may eaſily performe it, it is no more but to turne their faces to him that leades the right or left hand file, and ſo march with the Corner forwards: Likewiſe out of a Diamond to make ſuddenly a triangle: firſt <hi>I</hi> as you ſee marcheth vp to make euen with <hi>D</hi> and
+<hi>K,</hi> then <hi>N O,</hi> the reſt as you ſee it perfor<g ref="char:EOLhyphen"/>med in the figure: note that any iuſt ſquare will make a Diamond, and out of a Diamond a trian<g ref="char:EOLhyphen"/>gular faſhion, and no other number will make them but a iuſt ſquare.</p>
+               <p>
+                  <pb n="49" facs="tcp:174766:29"/>
+                  <figure/>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="50" facs="tcp:174766:30"/>
+               <head>The reaſon I ſet downe here ſo many ſeuerall ſorts of Battalias, is, becauſe you muſt when you Imbattell, order them accor<g ref="char:EOLhyphen"/>ding to the ſcituation, wherefore you cannot ob<g ref="char:EOLhyphen"/>ſerue one order, therefore as you finde cauſe take choyſe, for variety is neuer hurtfull.</head>
+               <div type="subpart">
+                  <head>The firſt Battalia of Pikes and Muskets.</head>
+                  <p>The ſquare that you ſee marked with <hi>A,</hi> muſt be 49. Pikes, ſeauen times ſeauen, and three in the reare; the two flankes marked with <hi>B</hi> 18. a peece, which are three files, and ſixe deepe, the reare <hi>C</hi> ſeauen files, and three deepe.</p>
+                  <div type="section">
+                     <head>100.</head>
+                     <p>The ſquare <hi>A</hi> in the ſecond Battalia, is 49. whoſe roote is ſeauen, the front
+<hi>B</hi> is ſeauen files and three deepe; the two flankes <hi>C</hi> are three files a peece, and ſixe deepe.</p>
+                  </div>
+                  <div type="section">
+                     <head>204.</head>
+                     <p>The Diamond in the midſt <hi>A,</hi> muſt be 84. be<g ref="char:EOLhyphen"/>ginning firſt with two, next with foure, and ſo Diamond wiſe, vntill you come vnto 84. the foure croſſes <hi>B,</hi> flankes
+30. a peece, fiue in file, and ſixe deepe.</p>
+                     <p>
+                        <pb n="51" facs="tcp:174766:30" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="52" facs="tcp:174766:31"/>
+                     <head>200.</head>
+                     <p>The Border that muſt goe round the ſquare <hi>A,</hi> muſt containe 90. Pikes, the vppermoſt muſt haue 11. Files, and three deepe, the lowermoſt as ma<g ref="char:EOLhyphen"/>ny, placed in the ſame manner, flankt with three Files, and foure deepe, the odde you muſt place in the front and reare, which are ten: the wings of Muskets <hi>B</hi> are foure Files, and ten deepe, at the front and reare of the Pikes <hi>C,</hi> are fiue Files, and two deepe: when you ſee cauſe, the Shott may retire in within the Pikes, and when you liſt iſſue out againe; the midſt of the Battalia marked with <hi>D</hi> are empty for the Shott to retire in.</p>
+                  </div>
+                  <div type="section">
+                     <head>301.</head>
+                     <p>The front <hi>A,</hi> reare <hi>C,</hi> and both wings <hi>B</hi> and <hi>D</hi> are Muskateres, the laſt ranke of Muskets (I meane of euery flanke) are mixt and rankt with Pikes, there are three Files of Muskets eleuen deepe, the Pikes <hi>E</hi> are 13. ſquare, charging to euery corner of the Battalia, as you may perceiue by the forme of the Battalia; when you pleaſe the Shott may retreat in within the Pikes, from any noyance of Horſe.</p>
+                     <p>
+                        <pb n="53" facs="tcp:174766:31" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="54" facs="tcp:174766:32"/>
+                     <head>392.</head>
+                     <p>The ſquare <hi>A</hi> of Pikes twenty rankes, the files tenne, which is 195. the halfe Diamonds <hi>B</hi> in the front and reare 36. a peece, the ground ranke eleuen, the next nine, and ſo vntill they be 36. the ſixe wings <hi>C</hi> on the flanks twenty, each one fiue files, and foure deepe.</p>
+                  </div>
+                  <div type="section">
+                     <head>400.</head>
+                     <p>The long ſquare of Pikes <hi>A</hi> are ten rankes, the files twenty, the both flankes
+<hi>B</hi> of Muskets 80. foure files, and ten deepe, the ſixe looſe wings <hi>C</hi> 120. foure files, and fiue deepe, the Enſignes in all manner of Battalias in the midſt.</p>
+                     <p>
+                        <pb n="55" facs="tcp:174766:32" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="56" facs="tcp:174766:33"/>
+                     <head>506.</head>
+                     <p>The Pikes <hi>A</hi> ſixteene ſquare, the Forlorne Hope <hi>B</hi> 55. that is foure rankes, and eleuen in file, the reare <hi>C</hi> as much more, the foure ſmall wings <hi>D</hi> in the corners fifteene a peece, fiue files and foure deepe, the foure other wings <hi>E</hi> in the flanks are fiue Files, and foure deepe alſo.</p>
+                  </div>
+                  <div type="section">
+                     <head>600.</head>
+                     <p>The two ſquadrons of Pikes <hi>A</hi> and <hi>B,</hi> are 144. a peece, eighteene Files, and eight deepe, which amount vnto 288. the twelue odde Pikes place in the reare of the laſt deuiſion of Pikes, the deuiſi<g ref="char:EOLhyphen"/>ons of Shott in the front <hi>C,</hi> are 64. a peece, that is ſixteene files and foure deepe, the flankes <hi>D</hi> are eight files, and fourteene deepe, which are 236. the foure odde place in the reare.</p>
+                     <p>
+                        <pb n="57" facs="tcp:174766:33" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="58" facs="tcp:174766:34"/>
+                     <head>511.</head>
+                     <p>The Pikes <hi>A</hi> are 21. files, and thirteene deepe, the two halfe Diamonds <hi>B</hi> 49. a peece, the foure ſmall wings at the corners <hi>C</hi> fifteen a peece three files, and fiue deepe, the foure greater <hi>D</hi> are twen<g ref="char:EOLhyphen"/>ty files, and foure deepe.</p>
+                  </div>
+                  <div type="section">
+                     <head>714.</head>
+                     <p>The Pikes <hi>A</hi> are eighteene ſquare, and the re<g ref="char:EOLhyphen"/>mainder 26. the wings of Shot marked with <hi>B</hi> are eight, ſixe files, and eight deepe a peece.</p>
+                  </div>
+                  <div type="section">
+                     <head>750.</head>
+                     <p>The two long ſquares <hi>A B</hi> of Pikes in the midſt, are 180. each one fiue files and eighteene deepe, and tenne odde Pikes, the two flankes of Muſ<g ref="char:EOLhyphen"/>kets <hi>C</hi> are 90. a peece ſixe files, and fifteene deepe, the foure long ſquares <hi>D</hi> in the front 180. that is 45. a peece, fiue files, and nine deepe.</p>
+                     <p>
+                        <pb n="59" facs="tcp:174766:34" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="60" facs="tcp:174766:35"/>
+                     <head>800.</head>
+                     <p>The Pikes <hi>A B C D</hi> are 400. twenty files, and fiue deepe, 100. in euery ſquadron, the wings of Shot <hi>E</hi> fifty a peece, fiue files, ten deepe: this Order and all the reſt where you ſee the Shot pla<g ref="char:EOLhyphen"/>ced round about the Pikes, are to be vſed where you are ſurrounded by the Enemie.</p>
+                  </div>
+                  <div type="section">
+                     <head>900.</head>
+                     <p>The Pikes <hi>A</hi> are 21. ſquare, and nine odde, the Muskatieres muſt bee 108. in euery ſquare 8, 36<g ref="char:punc">▪</g> that is ſixe ſquare, the long ſquares <hi>C</hi> 36. more, foure files, and nine deepe, which are in all 444. the odde ſixe.</p>
+                     <p>
+                        <pb n="61" facs="tcp:174766:35" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="62" facs="tcp:174766:36"/>
+                     <head>1500.</head>
+                     <p>The great ſquadron <hi>A</hi> of Pikes 27. ſquare, the reare <hi>B</hi> of Shott 300. thirty files, and ten deepe, the Forlorne Hope <hi>C</hi> fifty, fiue files, and tenne deepe, the foure other wings <hi>D</hi> 100. which is ten ſquare, there are thirty odde Pikes.</p>
+                  </div>
+                  <div type="section">
+                     <head>2000.</head>
+                     <p>The foure long ſquadrons of Pikes <hi>A</hi> are 250. a peece, twenty files, and tenne deepe, the foure long ſquares <hi>B</hi> of Muskets, are tenne files, and twelue deepe, which are 480. the ſixe leſſer <hi>C</hi> which are in the Forlorne Hope and reare, are nine a peece ſquare, the two little ſquares <hi>D</hi> are eight a peece, two in files, and foure deepe.</p>
+                     <p>
+                        <pb n="63" facs="tcp:174766:36" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="64" facs="tcp:174766:37"/>
+                     <head>1000.</head>
+                     <p>The ſquare <hi>A</hi> in the middle are 22. Pikes euery way, the halfe Moones <hi>B</hi> are
+100. a peece, files fiue, and ten deepe, in one deuiſion, the long wings <hi>C</hi> in the midſt of the halfe, Moones are ſix files, foure deepe.</p>
+                  </div>
+                  <div type="section">
+                     <head>1200.</head>
+                     <p>The foure ſquares or ſquadrons <hi>A B C D</hi> of Pikes, are 144. a peece, twelue ſquare, the odde Pikes are 24. the foure triangular ſquadrons <hi>E</hi> of Shot, are 72. a peece, the ground ranke ſixteene, the next fourteene, and leſſen euery ranke by two, which foure winges or ſquadrons are 288. the foure long ſquares <hi>F</hi> are 77. a peece, ſeauen files, and eleuen rankes, and foure odde Muskatieres vnplaced.</p>
+                     <p>
+                        <pb n="65" facs="tcp:174766:37" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="66" facs="tcp:174766:38"/>
+                     <head>4500.</head>
+                     <p>The two ſquares <hi>A B</hi> muſt bee thirty three a peece ſquare, the remainder of Pikes are 36. the two flankes of Shot <hi>C,</hi> 300. a peece, twelue files, and twenty fiue deepe, the foure wings <hi>D</hi> in the front 361. a peece, nineteene ſquare, the reare <hi>E</hi> are 206. Pikes, twenty files, and ten deepe, there are ſixe odde Pikes.</p>
+                     <p>The great ſquare <hi>A</hi> muſt be fifty ſquare, euery one of the wings <hi>B</hi> 200. a peece, ten file, and twen<g ref="char:EOLhyphen"/>tie deepe, the ſmall wings in the front and reare <hi>C,</hi> which are ſquares, are 196. a peece, fourteene ſquare, the foure leſſer wings <hi>D</hi> in the right, and left hand flanke, are 56. a peece, ſeauen files, and eight deepe, and one odde Muskatiere.</p>
+                     <figure>
+                        <figDesc>depiction of military formations.</figDesc>
+                     </figure>
+                  </div>
+                  <div type="section">
+                     <pb n="68" facs="tcp:174766:39"/>
+                     <head>3000.</head>
+                     <p>The Pikes <hi>A</hi> which are in the midſt, I meane the long ſquare are thirty files, and fifty deepe, which are 1500. the two flankes <hi>C D</hi> of Muskets on the right and left of the Pikes are 420. each one, that is ſix files, and 70. deepe, the two ſquares at the front and reare <hi>D</hi> are alſo 600. ten files, and thirty deepe, there are 60. ſhot remaining, which muſt be placed in the front or reare.</p>
+                  </div>
+                  <div type="section">
+                     <head>4000.</head>
+                     <p>The ſquadrons of Pikes innermoſt, <hi>A</hi> are fif<g ref="char:EOLhyphen"/>teene ſquare, and the odde Pikes are
+224. which are placed in the midſt to guard the Enſignes, the Shot are all in the outſide, and are as many more ſquare; likewiſe the remainder of them are 208. if you note it, the Muskets may iſſue or retreat in within the Pikes vpon any occaſion, alſo the re<g ref="char:EOLhyphen"/>mainder of Pikes and Shot, may be placed in the midſt <hi>C</hi> to guard the Enſignes.</p>
+                     <p>
+                        <pb n="69" facs="tcp:174766:39" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="70" facs="tcp:174766:40"/>
+                     <head>6000.</head>
+                     <p>The long ſquares that are like vnto a Croſſe, are 510. a peece, fifteene in file, and 35. rankes, which are foure of them, that is in all 2040. the long ſquares <hi>B</hi> adioyning, are tenne files, and 24. deepe; the eight ſquares <hi>C</hi> that you ſee placed by the heads of the Croſſes, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Muskatieres, and are thirteene files, and fourteene deepe, 48. remai<g ref="char:EOLhyphen"/>ning, the twelue other wings <hi>D</hi> that are placed betwixt the heads of the Croſſes are 126. a peece, nine files, and fourteene deepe; but out of the 48. odde men, you muſt borrow twelue to make vp your full number.</p>
+                  </div>
+                  <div type="section">
+                     <head>6690.</head>
+                     <p>The foure middle ſquadrons of Pikes <hi>A B C D</hi> are 860. a peece, 43. files, and twenty deepe, the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wo flankes <hi>E</hi> of Muskatieres, are thirty files, and <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>fty deepe, the two bigger ſquares <hi>F</hi> in the front, <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> one hundred a peece, ten ſquare, the leaſt <hi>G,</hi> at <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e head of them two are fifty, fiue files, and ten
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eepe.</p>
+                     <p>
+                        <pb n="71" facs="tcp:174766:40" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="72" facs="tcp:174766:41"/>
+                     <head>9000.</head>
+                     <p>The eight ſquares <hi>A</hi> in the midſt, are 460. a peece, two files, and 28. deepe, the odde Pikes are ſixteene, all the out wings noted with <hi>B</hi> are Muſ<g ref="char:EOLhyphen"/>katieres, twenty files, and 28. deepe, and as many Shot vnplaced, the Shot may retire through the lanes and galleries of the Pikes, then may the Pikes ioyne the longeſt wayes together, and make a iuſt ſquare to inuiron the Pikes; and a<g ref="char:EOLhyphen"/>gaine when you ſee cauſe, forme your ſelues after this manner againe to skirmiſh with your Shott, this faſhion may be vſed with any number.</p>
+                  </div>
+                  <div type="section">
+                     <head>10000.</head>
+                     <p>All thoſe ſquares you ſee within the circle no<g ref="char:EOLhyphen"/>ted with <hi>A B C</hi> are ſquadrons of Pikes, the foure great long ſquares muſt be 936. a peece, 36. files, and 26. deepe, the foure other long ſquares <hi>B</hi> are 206. a peece, twenty files, and tenne deepe, the ſquares at the corners <hi>C</hi> are 100. a peece, tenne ſquare. The Shott are all placed without the cir<g ref="char:EOLhyphen"/>cumference noted with <hi>D,</hi> and doe containe 24. wings that will doe ſeruice all at one time with<g ref="char:EOLhyphen"/>out the hinderance one of another, two hundred each one, ten files, and twenty deepe, the remain<g ref="char:EOLhyphen"/>der two hundred: vpon any occaſion, the wings of Shott may retire within the ſquadrons of Pikes, and the Pikes but ſtraighten their ſqua<g ref="char:EOLhyphen"/>drons, will make a iuſt ſquare to ſecure and inpall the Shot from any anoyance of Horſe.</p>
+                     <p>
+                        <pb n="73" facs="tcp:174766:41" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="74" facs="tcp:174766:42"/>
+                     <head>11000.</head>
+                     <p>The halfe Moone Battalia <hi>A</hi> is 5400. twenty files, and 270 deepe, the odde hundred is placed in the ſquare <hi>B</hi> within the halfe Moone, to ſhut vp the Muskets, when the fury of the Horſe ſhall force them to retreat within the Pikes, the two longeſt ſquares
+<hi>C</hi> are 1000 a peece, twenty files, and fifty deepe, the foure other long ſquares
+<hi>D</hi> are 34 files, and 22 deepe, and eight vnplaced, the foure leſſer wings <hi>E</hi> in the middle of the fourelaſt named, are 120 a peece, eight files, and twelue deepe, beſides twenty vnplaced.</p>
+                  </div>
+                  <div type="section">
+                     <head>12000.</head>
+                     <p>The two middle moſt ſquadrons with the foure corner ſquadrons marked with <hi>P</hi> are Pikes, the o<g ref="char:EOLhyphen"/>ther ſixe marked with <hi>M</hi> are Muskets, and are 1000 a peece, wanting 39 each ſquadron and wing, which are in all 468, thoſe you may im<g ref="char:EOLhyphen"/>ploy for the guard of the Artillery, or in ſmall wings at your pleaſure.</p>
+                     <p>
+                        <pb n="75" facs="tcp:174766:42" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="76" facs="tcp:174766:43"/>
+                     <head>14000.</head>
+                     <p>The three Battalias or Squadrons of Pikes <hi>A</hi> are in the midſt, and are 2310 a peece,
+77 files, and thirty deepe, the odde Pikes 70, the Forlorne <hi>B</hi> and reare 1750 a peece, 70 files, and 25 deepe, the foure flankers <hi>C</hi> are 870 a peece, ten files, and 57 deepe, there are twenty Muskatieres to be ſpa<g ref="char:EOLhyphen"/>red, the Hargabuſers <hi>D</hi> are 200, Lances <hi>E</hi>
+200, and the light Horſe <hi>F</hi> as many.</p>
+                  </div>
+                  <div type="section">
+                     <head>16000.</head>
+                     <p>The great ſquare <hi>A</hi> in the middle is 77 ſquare, which ſome is 5929, and 71 vnplaced, the vt<g ref="char:EOLhyphen"/>moſt Pikes <hi>B</hi> that doe impall, the foure ſquares, and the eight long ſquadrons of Shot are 2000, fiue in file, and 100 deepe, the Forlorne Hope are 2100, one hundred in euery ſquare, the reare 2000 more ſquared, as the others are halfe Dia<g ref="char:EOLhyphen"/>mond way, the foure ſquares <hi>D</hi> in the corners are 96 a peece, fourteene ſquare, there are ſixteene vnplaced, the eight long ſquares are 385, each one 77 files, and fiue deepe: The Horſe
+<hi>E</hi> 6000, a thouſand in each wing.</p>
+                     <p>
+                        <pb n="77" facs="tcp:174766:43" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="78" facs="tcp:174766:44" rendition="simple:additions"/>
+                     <head>20000.</head>
+                     <p>The foure ſquadrons <hi>A</hi> in the midſt, are 961 a peece, that is 31. ſquare, the Impall <hi>B</hi> are 4000 which is ten files, and 100 deepe, the ſquares <hi>C</hi> that comes from the Impalment <hi>B</hi> to the foure ſquares <hi>A</hi> in the midſt, are 1600, one hundred in euery ſquare, the long ſquare <hi>I</hi> in the foote is 300, ten deepe, and 30 files, the remainder 356 to guard the Ordnance, the flankes <hi>D E</hi> and reare of Shot 3000, ten files, and 100 deepe, the Forlorne Hope <hi>G</hi> 3000, an hundred each one; the foure ſquares <hi>H</hi> as the corners 441, twenty one ſquare a peece, the remainder 236, you may vſe as many Horſe as you pleaſe, and place them at the let<g ref="char:EOLhyphen"/>ter <hi>K.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>22000.</head>
+                     <p>The triangular Forlorne Hope <hi>A</hi> are 3600, a hundred in euery ſquare, the two wings
+<hi>B</hi> 800 a peece, the reare <hi>C</hi> triangular forme 2800, the wings <hi>D</hi> are alſo
+800 a peece, the long ſquares <hi>E</hi> that flanke the Pikes 1400, which are 700 a peece, ſeauen files, and 100 deepe, the foure ſqua<g ref="char:EOLhyphen"/>drons marked with <hi>F</hi> of Pikes, are 10304 each one, are 1156, which are 24 ſquare, the Horſe <hi>G</hi> 1000 a peece, and vpon any occaſion the reare may march vp through the lanes and galleries of the Squadrons of Pikes, to aſſiſt the Forlorne, and the Forlorne to retire backe, the odde Pikes are to cloſe in the galleries of Pikes, and to defend the Shot from the anoyance of the Enemies Horſe.</p>
+                     <p>
+                        <pb n="79" facs="tcp:174766:44" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="80" facs="tcp:174766:45"/>
+                     <head>30400.</head>
+                     <p>Euery one of the little ſquares are 100 men, ten ſquare, the long ſquadrons of Pikes
+<hi>A</hi> 2500 a peece, 25 files, and 100 deepe, the foure corners <hi>B,</hi> which are like right angles, are 1000 a peece, fifty files, and twenty deepe, the ſquares <hi>C</hi> in the cor<g ref="char:EOLhyphen"/>ners, are 225 a peece, fifteene ſquare, the remain<g ref="char:EOLhyphen"/>der are 100, by the figure here placed, you may plainely ſee how the Muskatieres may iſſue out, and againe retire in within the Pikes, vpon any occaſion as they ſee good, and vpon any occaſi<g ref="char:EOLhyphen"/>on the ſquadrons of Pikes
+<hi>A B C,</hi> may inuiron them in, and preſerue them from the aſſault and fury of the Horſe.</p>
+                  </div>
+                  <div type="section">
+                     <head>24000.</head>
+                     <p>The Impall <hi>A</hi> is 133 deepe, and fifteene files, which is 5985, the Vanguard of Pikes
+<hi>B,</hi> which are eight ſquadrons, are 37 files, and ten deepe, which are 370 each one, which in all the eight ſquadrons are 2960, the reareward <hi>C</hi> are deuided into foure ſquadrons,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>4 files, and ten deepe each one, which are 750 a peece; the totall of them foure are 3000, the remainder 55. Each of the wings of Shott which are
+120 wings, are 100 a peece, ten ſquare, the Horſe <hi>D</hi> 6000, a thouſand in each Troope.</p>
+                     <p>
+                        <pb n="49" facs="tcp:174766:45"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="50" facs="tcp:174766:46"/>
+                     <head>40000.</head>
+                     <p>The three Squadrons <hi>ABC</hi> of Pikes, are 4000, 100 files, and forty deepe, the Impalls
+<hi>D</hi> alſo are 4000 a peece, forty files, and 100 deepe, the foure wings of Shot in the Forlorne Hope, are 961 a peece, 31 ſquare, the fiue wings <hi>F</hi> in the front of the firſt Deuiſion of Pikes, are 1000 a peece, twenty files, and fifty deepe, the reareward <hi>G</hi> are
+1060, that is 53 files, and twenty deep, the vtmoſt Impalls <hi>H</hi> are 5000 a peece, fifty files, and 100 deepe, the remainder of Shot are 96: you may vſe as many Horſe as you pleaſe, and place them in the ſquares noted with <hi>I.</hi>
+                     </p>
+                     <p>
+                        <pb n="51" facs="tcp:174766:46"/>
+                        <figure>
+                           <figDesc>depiction of military formations.</figDesc>
+                        </figure>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:174766:47"/>
+               <head>The proportion of a Campe, or Camps.</head>
+               <p>I Will onely at this time ſet downe ſome fewe particulars concerning Encamping; note that you ought not to be ruled by the ſcituation of any place, but let the ſcituation be ruled by you, by which meanes you may keepe alwayes one man<g ref="char:EOLhyphen"/>ner of Encamping, which is a great benefit, for thereby the Souldiers by that meanes will be al<g ref="char:EOLhyphen"/>moſt able, their own ſelues to know where they muſt build their Hutts, eſpecially thoſe that are neere the Generalls lodging, and thoſe of the vt<g ref="char:EOLhyphen"/>moſt workes: note that where the ſcituation wan<g ref="char:EOLhyphen"/>teth ſtrength, you muſt ſupply the ſame with Art and induſtry: take heede likewiſe that whereſo<g ref="char:EOLhyphen"/>euer you encampe, you foreſee that there bee roome enough to range your Bands according to your owne deſired Diſcipline. And becauſe it is wiſedome to deuide the Armed from the Vn<g ref="char:EOLhyphen"/>armed, I would therefore ſeperate the men that be comberd with any thing from the vncombred. Therefore I would lodge all, or the greateſt part of the Armed men on the ſide towards the Eaſt, and vnarmed, and the combred on the Weſt ſide, making Eaſt the head, and Weſt the back part of the Campe, and South, and North, the flankes. The Artillery I would diſpoſe a long the bank of the Trench, and in the ſpace that ſhould remaine
+<pb n="53" facs="tcp:174766:47"/> towards the Weſt, I would lodge the impedement of the Campe, and note that forthwith with cords and ſtaues you may ordaine euery man his lodg<g ref="char:EOLhyphen"/>ing, eſpecially if you make (as I ſaid before) your Campe one way. A Generall ſhould not ſo much ſeeke to place his Campe in ſeates ſtrong by na<g ref="char:EOLhyphen"/>ture, as to fortifie them by Art, as well to keepe his Souldiers from idlenes (the only ruine of Armies) as alſo that due order in Camps may bee maintai<g ref="char:EOLhyphen"/>ned: therefore immitate the ancient Romanes, the very Schoolemaſters of the Art of Warre, who neuer coueted other then the plaine to Camp vpon, entrenching themſelues nightly in as ſtrong and ſure manner, as if the Enemy had encamped by them, and that euen in places vtterly voyde of all ſuſpition, to make theſe Millitary trauailes fa<g ref="char:EOLhyphen"/>miliar vnto them, and to auoyde thoſe idle, or ra<g ref="char:EOLhyphen"/>ther diſſolute effrenate paſtimes, that our Chriſti<g ref="char:EOLhyphen"/>an Camps are ſtill too much bewitched and ſor<g ref="char:EOLhyphen"/>ted withall, to the vtter ruine of all good Millita<g ref="char:EOLhyphen"/>rie Diſcipline, and confuſion of our Armies. In ſet<g ref="char:EOLhyphen"/>ling of a Campe, beſides the commodities of Wood, Water, and Forage, you muſt alſo con<g ref="char:EOLhyphen"/>ſider how victualls may ſafely come, and leaue no Caſtles at your back to annoy you, but that you ſeeke to poſſeſſe them ere you march forward, for great is the annoyance that a little pile at the back of an Army may doe as well againſt Forragers, as to cut off Victualers from the Campe. And thus much for Encamping.</p>
+               <p>
+                  <pb n="54" facs="tcp:174766:48"/>
+                  <figure>
+                     <figDesc>Shape of a military camp.</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="55" facs="tcp:174766:48"/>
+               <head>The ſtrongeſt and perfects faſhion <hi>of all other for the building of a Curtaine or Wall of a Towne or Fort.</hi>
+               </head>
+               <p>THE Circular faſhion is counted the beſt, ſo that the Curtaines or Walls bee made ſtraight, and of ſuch length, that of the Bul<g ref="char:EOLhyphen"/>warkes they may be flanked, which faſhion being made of many Corners, is moſt meete, if it be e<g ref="char:EOLhyphen"/>rected in a ſufficient place, otherwiſe not, for there it muſt be builded with fewe Corners, elſe the one Bulwarke will hurt the other: Therefore the farther that they bee made diſtant from the Bul<g ref="char:EOLhyphen"/>warke (the duelength of the Curtaine being kept) ſo much the blunter the corners will come to bee, which by them muſt be defended, and the more of thoſe Corners that are there in the ſame faſhi<g ref="char:EOLhyphen"/>on, ſo much the blunter they ſhall alſo come to bee; likewiſe the more men they may haue to de<g ref="char:EOLhyphen"/>fend them, and more commodious ſpace within for to retire, with great and ſtrong fortifications, and the plot formes may bee made much further in, and haue the corners of their Bulwarks blunt, with a large backe, meete for defence, and in an aſſault much ſurer then the ſharpe, becauſe the ſharpe pointed Bulwarke being batterd, defen<g ref="char:EOLhyphen"/>deth the Enemie from the platformes, ſo that vn<g ref="char:EOLhyphen"/>der the ſame, being couered, hee may almoſt out
+<pb n="56" facs="tcp:174766:49"/> of danger make an aſſault, where againſt a For<g ref="char:EOLhyphen"/>treſſe, after the faſhion of theſe plots, following in whatſoeuer part of ſuch places the Enemie ſhould anproach marching towards them, to en<g ref="char:EOLhyphen"/>campe, or in Battell ray to aſſault them, or with Trenches, and Artillery to batter them, either high or low, or by Curraine within, or otherwiſe, he ſhall alwayes from many of thoſe flankers of the ſame place, be greatly hurt and repulſed, and of the platformes, eſpecially more then from any other where, becauſe they bee moſt neere, and ſtand higher then any other, and they ſhall alſo hurt him more when hee ſhall bee ſomewhat farre off then neere hand, as may be ſeene by the plaine plot, that hath the number three; and ſo much concerning Fortifications for this time.</p>
+               <p>
+                  <pb n="57" facs="tcp:174766:49"/>
+                  <figure>
+                     <figDesc>Shapes of fortifications.</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="58" facs="tcp:174766:50"/>
+               <head>The manner that is vſed of <hi>La<g ref="char:EOLhyphen"/>ding and blowing of great Ordnance.</hi>
+               </head>
+               <p>FOraſmuch as if the <hi>Gunners</hi> ſhould chance to be ſlaine, or otherwiſe lacking, to the intent that euery Souldier, in the time of neede, may know how to ſerue in their places, I haue thought good to ſhew ſometing of the manner of Lading Blowing off, and Diſparting of a Peece of Ord<g ref="char:EOLhyphen"/>nance. Some doe take ⅔ parts of Powder, ſome halfe, and others aboue ⅔ parts; but that Peece muſt bee well fortified that may, or will ſafely blow out ⅔ parts of Powder of the weight of the Bullet. After you know the quantity of Powder, you muſt put in the ſoule or concaue of the Peece the ſaid quantity, with the Ladle, and then when the Ladle comes to the Coyle, turne about your hand, and the Powder will be left be<g ref="char:EOLhyphen"/>hinde, then pull out the Ladle, and turne the other ende, and ramm it in ſoftly, then wadd it after<g ref="char:EOLhyphen"/>wards, and laſt put in your Bullet, and wadd him likewiſe. But note that before you doe any of theſe things, you get the diſpart of the Peece, which is no more to doe then to put a wyre into the touch-hole of the Peece, to the lower part of the concaue, then marke how high the wyre beares vpon the quoile, which marked, pull him out, and place him at the muſſell to the bottome of the Concaue there, and make your Diſpart
+<pb n="59" facs="tcp:174766:50"/> iuſt as high as the notch was at the touch-hole: afterwards place the quoile and the toppe of the Diſpart in an euen line to the vppermoſt marke: Thus haue you the true
+<hi>Horizontall</hi> line, or line of Leuell; now for quicke diſpatch you may make cartreges of Paper, or Linnen baggs, and put a full Charge of Powder in them: So may you make a hole with a
+<hi>Gunners</hi> gimlett into the Car<g ref="char:EOLhyphen"/>trege, then prime with fine Corner powder, which is more readier to blowe him off: and when haſt requires, you may be the ſooner rea<g ref="char:EOLhyphen"/>dy vpon any occaſion. Alſo Wine or Vineger are the beſt things to coole any Peece of Ord<g ref="char:EOLhyphen"/>nance when they are hott.</p>
+            </div>
+            <div type="part">
+               <head>Questions and Rules concerning Great Ordnance.</head>
+               <p>IF a Saker at Point blancke conuey her Bullet 300. paces, and at the beſt of her randome ſhoote 1500. what will that Cannon doe, which at point blanke ſhootes 360. paces.</p>
+               <p>Multiply 1500. by 360. and deuide it by 300. your queſtion is anſwered.</p>
+               <p>If a Saker of 4. Inches Diameter weigh 1600. pound weight, what will a Culuerin weigh of 6. Inches Diameter</p>
+               <p>Multiply the Diameter Cubically, then ſay, if
+<pb n="60" facs="tcp:174766:51"/> 64. giue 1600. what will 216. giue<hi>:</hi> Multiply 216. by 1600 your queſtion is reſolued.</p>
+               <p>If a Cannon at point blanke range 300 paces, and at the beſt of her Randome ſhoot 1500 paces, how farre ſhall ſhee ſhoot at the mount of one Degree.</p>
+               <p>Abate 300 from 1500, reſts 1200 which diuided by 45 the quotient is 26⅔ ſo many paces ſhall ſhee ſhoot at euery degree.</p>
+               <p>If a Cannon of 10 foot long bee ſhot at a marke 700 yeards from the Peece, the diſpart being planting an inch wide, how farre ſhall the bullet light wide of the marke.</p>
+               <p>Looke how many times the length of the Ci<g ref="char:EOLhyphen"/>lender or Concaue of the Peece is to the marke, ſo many inches ſhall the Peece ſhoot amiſſe, be<g ref="char:EOLhyphen"/>ing layd ouer or vnder one inche, if the winde be not to rough to alter it.</p>
+               <p>If you meaſure with a paire of Callaper Com<g ref="char:EOLhyphen"/>paſſes the greateſt height of mettall, at the moſſell of the Peece, and likewiſe at the Coyle; abating the leſſer out of the greater, ½ the re<g ref="char:EOLhyphen"/>mainder is the iuſt diſparture.</p>
+               <p>It is a general rule, that look how much a Peece is thicker of mettall in any one ſide at the quoyle then at the thickeſt part of the muſſell<hi>:</hi> as alſo, looke how many times the length of the Peece is to the Marke; ſo many times that ouerplus of thickeneſſe ſhall the bullet flye ouer the marke, being no higher then the Peece, and the Peece
+<pb n="61" facs="tcp:174766:51"/> blowne off without her diſparture.</p>
+            </div>
+            <div type="part">
+               <head>How to make Granados to ſhoote in a Peece of Ordnance.</head>
+               <p>THe Balles of mettall muſt be of the bigneſſe of the Peeces concaue, and a quarter of an Inch thicke, made three parts of Braſſe, and one part of Tinne, but the Braſſe ought to bee mel<g ref="char:EOLhyphen"/>ted before the Tinn bee put to it; which Balles you muſt fill halfe full of fine powder, and the o<g ref="char:EOLhyphen"/>ther halfe full of groſſer powder mingled vvith Roſen vvell beaten: ſo that for three parts of groſſe powder, there be one part of Roſen, and then putting in the holes ſome ſmall Corne pow<g ref="char:EOLhyphen"/>der to make the reſt fire, and after they be fired, and throwne, they will breake and flye into a thouſand pieces, and both hurt and kill whomſo<g ref="char:EOLhyphen"/>euer are neere them.</p>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:174766:52"/>
+               <head>How to find out the ſquare Root; of any number by this Table from 16 to 10000.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Number.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Roote</hi>
+                        </cell>
+                        <cell>
+                           <hi>Square</hi>
+                        </cell>
+                        <cell>
+                           <hi>Remainder</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>4</cell>
+                        <cell>16</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>5</cell>
+                        <cell>25</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>6</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>49</cell>
+                        <cell>7</cell>
+                        <cell>46</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>64</cell>
+                        <cell>8</cell>
+                        <cell>64</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>81</cell>
+                        <cell>9</cell>
+                        <cell>81</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>100</cell>
+                        <cell>10</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>150</cell>
+                        <cell>11</cell>
+                        <cell>121</cell>
+                        <cell>29</cell>
+                     </row>
+                     <row>
+                        <cell>200</cell>
+                        <cell>14</cell>
+                        <cell>196</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>250</cell>
+                        <cell>15</cell>
+                        <cell>225</cell>
+                        <cell>25</cell>
+                     </row>
+                     <row>
+                        <cell>300</cell>
+                        <cell>17</cell>
+                        <cell>289</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>350</cell>
+                        <cell>18</cell>
+                        <cell>324</cell>
+                        <cell>26</cell>
+                     </row>
+                     <row>
+                        <cell>400</cell>
+                        <cell>20</cell>
+                        <cell>400</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>450</cell>
+                        <cell>21</cell>
+                        <cell>441</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>500</cell>
+                        <cell>22</cell>
+                        <cell>484</cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>500</cell>
+                        <cell>23</cell>
+                        <cell>529</cell>
+                        <cell>21</cell>
+                     </row>
+                     <row>
+                        <cell>600</cell>
+                        <cell>24</cell>
+                        <cell>576</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>650</cell>
+                        <cell>25</cell>
+                        <cell>625</cell>
+                        <cell>25</cell>
+                     </row>
+                     <row>
+                        <cell>700</cell>
+                        <cell>26</cell>
+                        <cell>676</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>750</cell>
+                        <cell>27</cell>
+                        <cell>729</cell>
+                        <cell>21</cell>
+                     </row>
+                     <row>
+                        <cell>800</cell>
+                        <cell>28</cell>
+                        <cell>784</cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>850</cell>
+                        <cell>29</cell>
+                        <cell>841</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>900</cell>
+                        <cell>30</cell>
+                        <cell>900</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>950</cell>
+                        <cell>30</cell>
+                        <cell>900</cell>
+                        <cell>50</cell>
+                     </row>
+                     <row>
+                        <cell>1000</cell>
+                        <cell>31</cell>
+                        <cell>961</cell>
+                        <cell>39</cell>
+                     </row>
+                     <row>
+                        <cell>1100.</cell>
+                        <cell>32</cell>
+                        <cell>1024</cell>
+                        <cell>76</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb n="63" facs="tcp:174766:52"/>1200</cell>
+                        <cell>33</cell>
+                        <cell>1156</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>1300</cell>
+                        <cell>34</cell>
+                        <cell>1225</cell>
+                        <cell>44</cell>
+                     </row>
+                     <row>
+                        <cell>1400</cell>
+                        <cell>37</cell>
+                        <cell>1369</cell>
+                        <cell>74</cell>
+                     </row>
+                     <row>
+                        <cell>1500</cell>
+                        <cell>38</cell>
+                        <cell>1444</cell>
+                        <cell>31</cell>
+                     </row>
+                     <row>
+                        <cell>1600</cell>
+                        <cell>40</cell>
+                        <cell>1680</cell>
+                        <cell>56</cell>
+                     </row>
+                     <row>
+                        <cell>1700</cell>
+                        <cell>41</cell>
+                        <cell>1681</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>1800</cell>
+                        <cell>42</cell>
+                        <cell>1764</cell>
+                        <cell>19</cell>
+                     </row>
+                     <row>
+                        <cell>1900</cell>
+                        <cell>43</cell>
+                        <cell>1849</cell>
+                        <cell>36</cell>
+                     </row>
+                     <row>
+                        <cell>2000</cell>
+                        <cell>44</cell>
+                        <cell>1936</cell>
+                        <cell>64</cell>
+                     </row>
+                     <row>
+                        <cell>2200</cell>
+                        <cell>46</cell>
+                        <cell>2116</cell>
+                        <cell>84</cell>
+                     </row>
+                     <row>
+                        <cell>2400</cell>
+                        <cell>48</cell>
+                        <cell>2304</cell>
+                        <cell>96</cell>
+                     </row>
+                     <row>
+                        <cell>2600</cell>
+                        <cell>50</cell>
+                        <cell>2500</cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>2800</cell>
+                        <cell>52</cell>
+                        <cell>2704</cell>
+                        <cell>96</cell>
+                     </row>
+                     <row>
+                        <cell>3000</cell>
+                        <cell>54</cell>
+                        <cell>2916</cell>
+                        <cell>84</cell>
+                     </row>
+                     <row>
+                        <cell>3500</cell>
+                        <cell>59</cell>
+                        <cell>3481</cell>
+                        <cell>19</cell>
+                     </row>
+                     <row>
+                        <cell>4000</cell>
+                        <cell>63</cell>
+                        <cell>3969</cell>
+                        <cell>31</cell>
+                     </row>
+                     <row>
+                        <cell>4500</cell>
+                        <cell>67</cell>
+                        <cell>4489</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>5000</cell>
+                        <cell>70</cell>
+                        <cell>4900</cell>
+                        <cell>110</cell>
+                     </row>
+                     <row>
+                        <cell>5500</cell>
+                        <cell>74</cell>
+                        <cell>5476</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>6000</cell>
+                        <cell>77</cell>
+                        <cell>5929</cell>
+                        <cell>71</cell>
+                     </row>
+                     <row>
+                        <cell>6500</cell>
+                        <cell>80</cell>
+                        <cell>6400</cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>7000</cell>
+                        <cell>83</cell>
+                        <cell>6889</cell>
+                        <cell>111</cell>
+                     </row>
+                     <row>
+                        <cell>7500</cell>
+                        <cell>86</cell>
+                        <cell>7396</cell>
+                        <cell>104</cell>
+                     </row>
+                     <row>
+                        <cell>8000</cell>
+                        <cell>89</cell>
+                        <cell>79<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>1</cell>
+                        <cell>79</cell>
+                     </row>
+                     <row>
+                        <cell>8500</cell>
+                        <cell>92</cell>
+                        <cell>8464</cell>
+                        <cell>36</cell>
+                     </row>
+                     <row>
+                        <cell>9000</cell>
+                        <cell>94</cell>
+                        <cell>8836</cell>
+                        <cell>164</cell>
+                     </row>
+                     <row>
+                        <cell>9000</cell>
+                        <cell>97</cell>
+                        <cell>94<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>9</cell>
+                        <cell>21</cell>
+                     </row>
+                     <row>
+                        <cell>10000</cell>
+                        <cell>100</cell>
+                        <cell>10<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>00</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="64" facs="tcp:174766:53"/> And ſo you may proceede infinitely, but now the meanes to extract the roote of any number, is thus found: Suppoſe your number to be 200, firſt you muſt put a prick in euery odde place, begin<g ref="char:EOLhyphen"/>ning firſt on the right hand with the firſt, third, fift, and ſo continue vntill you come to the end of the number, except the laſt, which ſomtimes hath but one.</p>
+               <p>Secondly, marke the numbers that belong vnto the laſt prick towards the left hand: Or whether he haue belonging vnto him one number or two, looke the roote of that number if it be ſquare, and that roote ſet by a crooked line, as you place the quotient in deuiſion, and canſell all that ſquare number belonging to that prick.</p>
+               <p>But if the number belonging to that prick bee not a ſquare number, then take the roote of the greateſt ſquare, which is contained in it, and place the roote as I ſaid before, and the ſquare of it ſhall you abate from the number which belong to the laſt &amp; prick, let the reſt be ſet ouer thoſe numbers cancelled, as you doe in deuiſion, and ſo haue you ended that prick, then in the ſame manner goe forward with the reſt. As for example 200, you place your prickes firſt on the cipher next your right hand, the next 2 the firſt figure, then I aske what is the roote of 2, and I finde 1, there<g ref="char:EOLhyphen"/>fore I put that in my quotient, and ſubſtract it out of 2, and there remaines 1, then I double the quo<g ref="char:EOLhyphen"/>tient, and it is 2 that I place ſtill betweene the two
+<pb n="65" facs="tcp:174766:53"/> pricks, then I aske how many times 2 is in 10, and I finde 4 that I put alſo in my quotient, and ſub<g ref="char:EOLhyphen"/>ſtract it out of 10, then remaines 2, now I ſquare the laſt figure
+4, ſaying 4 times 4 is 16, which I ſubſtract alſo out of 20, the remainder is 4, which is the trueſt and ſpeedieſt way of all.</p>
+               <p>Here I will produce ſome queſtions of Arith<g ref="char:EOLhyphen"/>metick, which ſhall be to the purpoſe wee haue in hand, and alſo to ſhew and make manifeſt vnto you, how neceſſary it is for euery Souldier, whe<g ref="char:EOLhyphen"/>ther he be Captaine, Lieutenant, or other Officer whatſoeuer that followes the Warres, to haue good skill in the depth of Arithmetick, as in the extraction of rootes, and alſo in the Rule of <hi>Algebra.</hi>
+               </p>
+               <p>1 A Captaine Generall hauing three great Armies, would caſt them into three ſquare Bat<g ref="char:EOLhyphen"/>tels, but he knoweth not how many men he ſhall ſet in the front of each Battell. The numbers of the three Armies are theſe: of the firſt there are 5625, the ſecond are 9216, the third
+15129.</p>
+               <p>Now you muſt ſearch out the ſquare roote by the former rules, ſo ſhall you haue the anſwer.</p>
+               <p>2 A Prince hath an Army very great, with which he paſſeth in a valewe, ſo that in marching the Front can be but 18 men, and by that meanes the flanke containeth
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>49352. After that the Ar<g ref="char:EOLhyphen"/>mie hath paſſed that valewe, the King minding to occupie all the beſt ground, willeth the Battell to be ſet ſquare.</p>
+               <p>
+                  <pb n="66" facs="tcp:174766:54"/> You muſt multiply the flanke by the front, and then your number will be
+8088336, and extract the roote, and you ſhall haue 2844 for your ſquare roote.</p>
+               <p>A Citie ſhould be ſcaled being double ditched, and the inner ditch 32 foote broad, and the wall 21 foote high: the Captaine commandeth skal<g ref="char:EOLhyphen"/>ling Ladders to be made of the iuſt height, that would reach from the vtter browe of the inner ditch, to the top of the wall, as in this figure is partly expreſſed.</p>
+               <p>As thus 32 multiplied in it ſelfe 1024, then 21 multiplied by it ſelfe maketh 441, now you muſt adde both theſe ſummes together, and there make 146<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, then extract the roote which is 3812/76, and that is the iuſt length of the line <hi>A C.</hi>
+               </p>
+               <p>Note alſo this, that if at any time you haue oc<g ref="char:EOLhyphen"/>caſion to double any ſquare as a ſquare battaile, or a ſquare Campe: you muſt take the ſide of that ſquare, which you would double ſuppoſe that battell was before 210: now you haue as ma<g ref="char:EOLhyphen"/>ny more Souldiers as you had, therefore you muſt double it, the way to double either, the ground or men is thus, multiply 210 by it ſelfe, and thereof commeth 44100. that muſt I double 88200, the roote of which number extracted, is the double
+<pb n="67" facs="tcp:174766:54"/> and iuſt ſquare of that number which you had be<g ref="char:EOLhyphen"/>fore 296.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>84/296.</p>
+               <p>And hereby you may perceiue the ouerſight of many men, which being required to double a ſquare plot, doe double the ſide of it, thinking it eaſily done.</p>
+               <p>But if they marke it well, he may perceiue that they doe make by that meanes a ſquare 4 times, as bigge as their firſt figure, was as by this figure any man may ſee.</p>
+               <p>A peece of Ordnance of 6 inches Diameter in the ſoule, doth carrie a Bullet of 20 pound waight, what waight ſhall that Bullet be, that ſerueth for a peece of Ordnance of 14 inches in the ſoule.</p>
+               <p>Note that all Globes beare together triple that propoſition, that their Diameters doe: So in this example, the proportion of their Diameter being as 14 to 6, or as 7 to 3, I muſt triple it, and then haue I the proportion of their Globes.</p>
+               <p>Wherfore I ſet the three fractions thus 777/333, and there make 34<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>/27, that is 1219/27, and ſo are the pro<g ref="char:EOLhyphen"/>portions of the Globes as well in weight as big<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>
+                  <pb n="68" facs="tcp:174766:55" rendition="simple:additions"/> Therefore I muſt multiply 20, which is the waight of the leſſer Bullet, by the numerator of the proportion, and deuide it by the Denomina<g ref="char:EOLhyphen"/>tor, and ſo ſhall I haue 25427/2 for the weight of the greater Bullet.</p>
+               <p>There was a King with a great Armie, and his Aduerſarie corrupteth one of his Heraulds with gifts, and maketh him ſweare, that hee will tell him how many Dukes, Earles, and other Souldi<g ref="char:EOLhyphen"/>ers there are in that Armie: The Herauld loath to looſe thoſe gifts, and as loath to bee vntrue to his Prince, deuiſeth this anſwer which was true, but yet not ſo plaine, that the aduerſary could thereby vnderſtand that which hee deſired, and that anſwer was this.</p>
+               <p>Looke how many Dukes there are, and for each of them there are twice ſo many Earles, and vnder euery Earle there are foure times ſo many Souldiers as there bee Dukes in the field. And when the Maſter of the Souldiers was taken, the 200 part of them was 9 times ſo many as the num<g ref="char:EOLhyphen"/>ber of the Dukes.</p>
+               <p>This is a true declaration of each number, quoth the Herauld, and I haue diſcharged my oath, now gueſſe how many of each ſort there was, marke the worke.</p>
+               <p>And firſt for the number of Dukes, I ſet 1 <expan>
+                     <am>
+                        <g ref="char:powerof1"/>
+                     </am>
+                     <ex>powerof1</ex>
+                  </expan> then will the number of Earles be 2 <expan>
+                     <am>
+                        <g ref="char:powerof2"/>
+                     </am>
+                     <ex>powerof2</ex>
+                  </expan> that is 1 <expan>
+                     <am>
+                        <g ref="char:powerof1"/>
+                     </am>
+                     <ex>powerof1</ex>
+                  </expan> by 1 <expan>
+                     <am>
+                        <g ref="char:powerof1"/>
+                     </am>
+                     <ex>powerof1</ex>
+                  </expan> multiplied twice, and the number of Soul<g ref="char:EOLhyphen"/>diers
+<pb n="69" facs="tcp:174766:55" rendition="simple:additions"/> are 8 <expan>
+                     <am>
+                        <g ref="char:powerof3"/>
+                     </am>
+                     <ex>powerof3</ex>
+                  </expan> that is 2 <expan>
+                     <am>
+                        <g ref="char:powerof2"/>
+                     </am>
+                     <ex>powerof2</ex>
+                  </expan> multiplied by 1 <expan>
+                     <am>
+                        <g ref="char:powerof1"/>
+                     </am>
+                     <ex>powerof1</ex>
+                  </expan> foure times, but becauſe the 200 part of the Souldiers are nine times ſo many as the number of the Dukes, therefore muſt 200 part of 8 <expan>
+                     <am>
+                        <g ref="char:powerof3"/>
+                     </am>
+                     <ex>powerof3</ex>
+                  </expan> be equall to 9 <expan>
+                     <am>
+                        <g ref="char:powerof2"/>
+                     </am>
+                     <ex>powerof2</ex>
+                  </expan> and ſo conſequently
+8 <expan>
+                     <am>
+                        <g ref="char:powerof3"/>
+                     </am>
+                     <ex>powerof3</ex>
+                  </expan> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 1800 <expan>
+                     <am>
+                        <g ref="char:powerof1"/>
+                     </am>
+                     <ex>powerof1</ex>
+                  </expan> and 1 <expan>
+                     <am>
+                        <g ref="char:powerof2"/>
+                     </am>
+                     <ex>powerof2</ex>
+                  </expan> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 225 <expan>
+                     <am>
+                        <g ref="char:powerof1"/>
+                     </am>
+                     <ex>powerof1</ex>
+                  </expan> or <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </p>
+               <p>For if I ſet 1/200 and 9 as equall together, and would by the Art of Fractions bring the ſame proportion in whole numbers, I ſhall haue for 9. this Fraction 1800/200 and ſeeing the Denominators be all one in 8/200 and is 1600/200 the proportion con<g ref="char:EOLhyphen"/>ſiſteth betweene the numerators.</p>
+               <p>Then to proceede if 229 be equall vnto one I ſhall take the roote out of the 225 for 1 and that is 15, which muſt be the number of the Dukes.</p>
+               <p>And ſo haue I the firſt number, wherefore the ſecond number which is the number of Earles, muſt be 15 times 15 twice, that is 450, and the number of Souldiers ſhall be foure times 15, mul<g ref="char:EOLhyphen"/>tiplied by 4, 0, that is 27000, and for iuſt triall of this worke, I take the 200 of the Souldiers that 1350, and I finde it to be nine times 15, that is nine times ſo many as the number of the Dukes, and ſo is the queſtion ended.</p>
+               <p>
+                  <pb n="70" facs="tcp:174766:56"/> A Table to diſcouer numbers by hundreds, pla<g ref="char:EOLhyphen"/>ced by 3. 5. 7. 9. and ſo forth to 15, as from 100 vnto 1500, as thus 7 in ranke, and 34 in File is 102.</p>
+               <p>
+                  <hi>Ranks men</hi>
+               </p>
+               <p>
+                  <hi>Ranks men</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="71" facs="tcp:174766:56"/>
+               <head>
+                  <hi>Admonitions for the Citizens of</hi> London <hi>and</hi> Briſtoll.</head>
+               <p>ANd ſince I haue waded ſo farre into the Art <hi>Millitary,</hi> I haue thought good to aduertiſe thus much in generall; But perticularly, the Ci<g ref="char:EOLhyphen"/>tizens of <hi>London</hi> and
+<hi>Briſtoll.</hi>
+               </p>
+               <p>There are in theſe Cities ſundry Companies of three hundred a peece, which are to great by much to obſerue Rankes and Files, and diuers o<g ref="char:EOLhyphen"/>ther Orders neceſſary and much vſefull, vnleſſe they are often vſed to be exerciſed by Deuiſions: Neuertheleſſe, it was abſolutely denyed by the auncient <hi>Romanes,</hi> who neuer deſired more then a hundred in one Company, and therefore they were called <hi>Centurions,</hi> as much to ſay as
+<hi>Cap<g ref="char:EOLhyphen"/>taines</hi> ouer Hundreds.</p>
+               <p>They who were the terrour of <hi>Chriſtendome,</hi> for feates of Armes, be our Preſidents; and let vs fol<g ref="char:EOLhyphen"/>low the imitation of the Mightieſt, rather then of others, whoſe populous aſſaults are ſcaled by the very eye of the Enemie, and repulſed by the diſ<g ref="char:EOLhyphen"/>order of the Multitude. I will ſimilize this to the Husband man, who ſayes, one Acre well manu<g ref="char:EOLhyphen"/>red, yeeldes more profite then ten ill tillde; ſo one hundred well experienced, are able encounter with two hundred rawe Souldiers.</p>
+               <p>Some will (peraduenture) ſay, nay grumble at
+<pb n="62" facs="tcp:174766:57"/> this my aduertiſement, becauſe they know it may be a greater charge vnto them then now it is, by reaſon of more Officers that muſt be vſed, if you leſſen your Companies, and not deminiſh your full Muſter.</p>
+               <p>To this I anſwere; The Cities Lands and Mo<g ref="char:EOLhyphen"/>neyes are infinite, and therefore able to vndergoe ſo ſmall a burden for the payment of more Offi<g ref="char:EOLhyphen"/>cers, the ripeneſſe and expertneſſe in Millitary skill but lame, and extreme decreped: Adde the aſſiſtance of Money to the decrepidneſſe of Diſci<g ref="char:EOLhyphen"/>pline, and you ſhall be ſure to haue a meane of both ſides, the ſtrength of the City will be there<g ref="char:EOLhyphen"/>by much the more inabled, the Honor of it the moe renowned, and the furie the more feared: For what a terror will it ſtrike into the hearts of Strangers, and an amazement to our neighbou<g ref="char:EOLhyphen"/>ring Kingdomes, to ſee euery Man ſo skilfull and compleate, Marching, Trouping, and Standing in Battell-ray, like ſo many Commaunders, the worſt not vnworthy the gouernement of a No<g ref="char:EOLhyphen"/>ble Company, daring <hi>Bellona</hi> and her fierceſt aſſaults, ready to encounter the worſt of Stra<g ref="char:EOLhyphen"/>tagems?</p>
+               <p>Now Noble Citizens, the Honor will be your owne, the Strength the Kings, and the Wonder the Worldes, which I hope will be no long time deferred, to the glory of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od, the defence of true Chriſtian Religion, and to the generall preſerua<g ref="char:EOLhyphen"/>tion of your ſelues.</p>
+               <p>
+                  <pb n="73" facs="tcp:174766:57"/> Alſo, there is an other matter, which is not ſo ſeemely and Souldier like performed as I haue ſeene it in Forregine parts: That is, your Mar<g ref="char:EOLhyphen"/>ching into the Field, for you obſerue no manner of Order; therefore marke this: Let euery pri<g ref="char:EOLhyphen"/>uate Captaine repaire, to and atend his Colonells Enſigne, and ſo let the Eldeſt Colonell march firſt into the Field, then his Captaines, according to their antiquity: And in comming out, or Trou<g ref="char:EOLhyphen"/>ping in, firſt the Youngeſt, then the next, by which meanes, you ſhall be able and ready to ioyne Battle, without the trauerſe vp and downe of ſo much ground, before you know your right range; for you ſpend a great part of the day in placing your Companies right in their order.</p>
+               <p>Theſe things amended, and orderly perfor<g ref="char:EOLhyphen"/>med, will adde much Honour to your Cities, and commendations to the Leaders and Officers: and ſo I reſt.</p>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:174766:58"/>
+               <head>The Authors Farewell to his fayth<g ref="char:EOLhyphen"/>full Friends: Or, his Caueats to his louing Countrey-men.</head>
+               <p>IT is bad Pollicy to let Danger knock at the Doore. Sollid and grounded Courſes which keepe dangers aloofe, are better then fine ſhiffts, and neate deliuerances, when they are neere.</p>
+               <p>Meditation without Practiſe, is like an vnſtrin<g ref="char:EOLhyphen"/>ged Inſtrument, whereon no Man plaies: Practiſe without the Theoricke, is like a ſtringed Inſtru<g ref="char:EOLhyphen"/>ment, but not well Tunde.</p>
+               <p>It is a Maxime in Millitary proceedings, that thoſe things determined, ſhould not be commu<g ref="char:EOLhyphen"/>nicated, but to thoſe without whome it can not be effected.</p>
+               <p>Beware of too long Conſultations, leaſt they flye away with the time: Delayes and protracti<g ref="char:EOLhyphen"/>ons prooue dangerous many times fruſtrary.</p>
+               <p>An Army of Sagges led by a Lyon, is better then an Army of Lyons led by a Stagge.</p>
+               <p>In Warre, nothing can be worſe, then to ſay, <hi>Had I Wiſt.</hi>
+               </p>
+               <p>A Generall told his excuſing Souldier, <hi>Thou muſt not fayle twice in Warre.</hi>
+               </p>
+               <p>The wiſeſt Captaines, needes not thinke it a derogation to their Valour, or a deminution to their Honor, to rely on Counſell.</p>
+               <p>
+                  <pb n="39" facs="tcp:174766:58"/> Youth are like the firſt cogitations, not ſo wiſe as the ſecond, fitter to Inuent then to Iudge; fitter for Execution then for Counſell; fitter for new Proiects then for ſetled Buſineſſe. They in con<g ref="char:EOLhyphen"/>duct and managing of Martiall affayres, imbrace more then they can hold, fire more then they can quench, ſtirre more then they can quiet, flye to the end, without conſideration of the meanes.</p>
+               <p>Old men obect too much, conſult too long, aduenture too little, ſeldome driues buſineſſe home to the full<hi>:</hi> Therefore a mixture muſt be vſed: Ages Wiſedome, and experimentall ad<g ref="char:EOLhyphen"/>uiſe, ioynd with Youths Valour, and quick diſ<g ref="char:EOLhyphen"/>patch, prooues inuincible.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:174766:59"/>
+            <head>A Poſtſcript to the Reader.</head>
+            <p>COurteous <hi>Reader,</hi> I had thought to impoſed ſilence to my Penne, and to haue infuſed a Period to this my <hi>Compendium;</hi> But I did thinke fitte to adde theſe few Lines, as a ſupple<g ref="char:EOLhyphen"/>ment &amp; Poſtſcript, to ſhow the cauſe of this my writing. The
+<hi>Cauſa mouens,</hi> or, <hi>Primum mobile</hi> of it, is a declaratory Inſtruction to my Countrey-men in generall, but eſpecially to No<g ref="char:EOLhyphen"/>ble, (though vnexperienced <hi>Tyrones)</hi> in whom, there is either an inbred, or an aduenticious de<g ref="char:EOLhyphen"/>ſire of <hi>Millitary Diſcipline,</hi> or to exoſitate, or ſtir vp thoſe that are vnexperienced, to a further proſecution of theſe generous &amp; well beſeeming Qualities. The <hi>Terminus ad quem,</hi> or, the in<g ref="char:EOLhyphen"/>tentiall ſcope and drift of this, is for the benefi<g ref="char:EOLhyphen"/>ciall good of my Natiue Countrey. From the
+
+<pb facs="tcp:174766:59"/> firſt of theſe, I doe deſire their courteous wel<g ref="char:EOLhyphen"/>wiſhings; from the ſecond, their gratefull accep<g ref="char:EOLhyphen"/>tation; from the third, their louing approbation: As for the laſt, though I owe more then I am able, yet when I am able, I will ſhowe more; In the meane time, take this as a depoſitum.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
